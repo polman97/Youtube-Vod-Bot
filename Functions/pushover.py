@@ -27,10 +27,11 @@ def send_notification(message):
     conn = http.client.HTTPSConnection("api.pushover.net:443")
     conn.request("POST", "/1/messages.json",
                  urllib.parse.urlencode({
-                     "token": "ah9aqxojr8zqmfnz8nstha59j96y2y",
-                     "user": "uvxh3gdpukmhx8bew6m1zstvte339d",
+                     "token": "",
+                     "user": "",
                      "message": message,
                  }), {"Content-type": "application/x-www-form-urlencoded"})
     logger.info(f'Push notification sent: {message}')
     conn.getresponse()
+
 
