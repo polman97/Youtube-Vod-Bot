@@ -1,0 +1,3 @@
+pip install moviepy
+pip install opencv-python (avoids an error when resizing in moviepy)
+pip install praw

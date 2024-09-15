@@ -1,0 +1,1323 @@
+2024-02-19 13:25:08,169:reddit_api:Imported
+2024-02-19 13:25:08,529:moviepy_funcs:Imported
+2024-02-19 13:25:08,532:pushover:Imported
+2024-02-19 13:25:08,532:__main__:Imported
+2024-02-19 13:25:08,532:moviepy_funcs:combining all mp4s in C:\Users\polma\PycharmProjects\Youtube_Bot
+2024-02-19 13:25:08,532:moviepy_funcs: mp4 found
+2024-02-19 13:26:17,282:reddit_api:Imported
+2024-02-19 13:26:17,623:moviepy_funcs:Imported
+2024-02-19 13:26:17,624:pushover:Imported
+2024-02-19 13:26:17,624:__main__:Imported
+2024-02-19 13:26:17,625:moviepy_funcs:creating shorts from C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 13:26:17,625:moviepy_funcs: mp4 found
+2024-02-19 13:26:17,918:moviepy_funcs: mp4 found
+2024-02-19 13:26:18,259:moviepy_funcs: mp4 found
+2024-02-19 13:26:18,564:moviepy_funcs: mp4 found
+2024-02-19 13:26:18,849:moviepy_funcs:Moving clip AbruptChaos_video22.mp4 to shorts folder
+2024-02-19 13:28:09,705:reddit_api:Imported
+2024-02-19 13:28:10,691:moviepy_funcs:Imported
+2024-02-19 13:28:10,692:pushover:Imported
+2024-02-19 13:28:10,692:__main__:Imported
+2024-02-19 13:28:10,692:moviepy_funcs:creating shorts from C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 13:28:10,692:moviepy_funcs: mp4 found
+2024-02-19 13:28:10,988:moviepy_funcs: mp4 found
+2024-02-19 13:28:11,331:moviepy_funcs: mp4 found
+2024-02-19 13:28:11,625:moviepy_funcs: mp4 found
+2024-02-19 13:28:11,911:moviepy_funcs: mp4 found
+2024-02-19 13:28:12,066:moviepy_funcs: mp4 found
+2024-02-19 13:28:12,381:moviepy_funcs: mp4 found
+2024-02-19 13:28:12,790:moviepy_funcs: mp4 found
+2024-02-19 13:28:13,208:moviepy_funcs: mp4 found
+2024-02-19 13:28:13,615:moviepy_funcs: mp4 found
+2024-02-19 13:28:13,927:moviepy_funcs: mp4 found
+2024-02-19 13:28:14,231:moviepy_funcs: mp4 found
+2024-02-19 13:28:14,547:moviepy_funcs: mp4 found
+2024-02-19 13:28:14,848:moviepy_funcs: mp4 found
+2024-02-19 13:28:15,127:moviepy_funcs: mp4 found
+2024-02-19 13:28:15,410:moviepy_funcs: mp4 found
+2024-02-19 13:28:15,693:moviepy_funcs: mp4 found
+2024-02-19 13:28:15,985:moviepy_funcs: mp4 found
+2024-02-19 13:28:16,311:moviepy_funcs: mp4 found
+2024-02-19 13:28:16,640:moviepy_funcs: mp4 found
+2024-02-19 13:28:16,966:moviepy_funcs: mp4 found
+2024-02-19 13:28:17,277:moviepy_funcs: mp4 found
+2024-02-19 13:28:17,602:moviepy_funcs: mp4 found
+2024-02-19 13:28:17,942:moviepy_funcs: mp4 found
+2024-02-19 13:28:18,267:moviepy_funcs: mp4 found
+2024-02-19 13:28:18,583:moviepy_funcs: mp4 found
+2024-02-19 13:28:18,934:moviepy_funcs: mp4 found
+2024-02-19 13:28:19,238:moviepy_funcs: mp4 found
+2024-02-19 13:28:19,536:moviepy_funcs: mp4 found
+2024-02-19 13:28:19,902:moviepy_funcs: mp4 found
+2024-02-19 13:28:20,188:moviepy_funcs: mp4 found
+2024-02-19 13:28:20,471:moviepy_funcs: mp4 found
+2024-02-19 13:28:20,762:moviepy_funcs: mp4 found
+2024-02-19 13:28:21,053:moviepy_funcs: mp4 found
+2024-02-19 13:28:21,347:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\AbruptChaos_video22.mp4
+2024-02-19 13:29:54,887:reddit_api:Imported
+2024-02-19 13:29:55,255:moviepy_funcs:Imported
+2024-02-19 13:29:55,256:pushover:Imported
+2024-02-19 13:29:55,256:__main__:Imported
+2024-02-19 13:29:55,256:moviepy_funcs:creating shorts from C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 13:29:56,452:moviepy_funcs:adding "AbruptChaos_video22.mp4" to list of shorts to be moved
+2024-02-19 13:29:57,187:moviepy_funcs:adding "discordVideos_video2.mp4" to list of shorts to be moved
+2024-02-19 13:29:57,736:moviepy_funcs:adding "discordVideos_video5.mp4" to list of shorts to be moved
+2024-02-19 13:29:58,020:moviepy_funcs:adding "discordVideos_video6.mp4" to list of shorts to be moved
+2024-02-19 13:29:59,214:moviepy_funcs:adding "funny_video23.mp4" to list of shorts to be moved
+2024-02-19 13:30:01,554:moviepy_funcs:adding "MemeVideos_video14.mp4" to list of shorts to be moved
+2024-02-19 13:30:02,492:moviepy_funcs:adding "MemeVideos_video25.mp4" to list of shorts to be moved
+2024-02-19 13:30:05,209:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\AbruptChaos_video22.mp4
+2024-02-19 13:30:05,211:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\discordVideos_video2.mp4
+2024-02-19 13:30:05,212:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\discordVideos_video5.mp4
+2024-02-19 13:32:19,922:reddit_api:Imported
+2024-02-19 13:32:20,268:moviepy_funcs:Imported
+2024-02-19 13:32:20,268:pushover:Imported
+2024-02-19 13:32:20,268:__main__:Imported
+2024-02-19 13:32:20,268:moviepy_funcs:creating shorts from C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 13:32:22,210:moviepy_funcs:adding "discordVideos_video5.mp4" to list of shorts to be moved
+2024-02-19 13:32:22,493:moviepy_funcs:adding "discordVideos_video6.mp4" to list of shorts to be moved
+2024-02-19 13:32:23,686:moviepy_funcs:adding "funny_video23.mp4" to list of shorts to be moved
+2024-02-19 13:32:26,059:moviepy_funcs:adding "MemeVideos_video14.mp4" to list of shorts to be moved
+2024-02-19 13:32:27,111:moviepy_funcs:adding "MemeVideos_video25.mp4" to list of shorts to be moved
+2024-02-19 13:32:29,873:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\discordVideos_video5.mp4
+2024-02-19 13:33:16,926:reddit_api:Imported
+2024-02-19 13:33:17,257:moviepy_funcs:Imported
+2024-02-19 13:33:17,258:pushover:Imported
+2024-02-19 13:33:17,258:__main__:Imported
+2024-02-19 13:33:17,258:moviepy_funcs:creating shorts from C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 13:33:19,169:moviepy_funcs:adding "discordVideos_video5.mp4" to list of shorts to be moved
+2024-02-19 13:33:19,458:moviepy_funcs:adding "discordVideos_video6.mp4" to list of shorts to be moved
+2024-02-19 13:33:20,656:moviepy_funcs:adding "funny_video23.mp4" to list of shorts to be moved
+2024-02-19 13:33:22,944:moviepy_funcs:adding "MemeVideos_video14.mp4" to list of shorts to be moved
+2024-02-19 13:33:23,844:moviepy_funcs:adding "MemeVideos_video25.mp4" to list of shorts to be moved
+2024-02-19 13:33:26,496:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\discordVideos_video5.mp4
+2024-02-19 13:33:26,498:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\discordVideos_video6.mp4
+2024-02-19 13:33:26,499:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\funny_video23.mp4
+2024-02-19 13:33:26,501:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\MemeVideos_video14.mp4
+2024-02-19 13:33:26,503:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\MemeVideos_video25.mp4
+2024-02-19 13:35:01,034:reddit_api:Imported
+2024-02-19 13:35:01,376:moviepy_funcs:Imported
+2024-02-19 13:35:01,377:pushover:Imported
+2024-02-19 13:35:01,378:__main__:Imported
+2024-02-19 13:35:01,378:moviepy_funcs:creating shorts from C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 13:35:03,260:moviepy_funcs:adding "discordVideos_video5.mp4" to list of shorts to be moved
+2024-02-19 13:35:03,541:moviepy_funcs:adding "discordVideos_video6.mp4" to list of shorts to be moved
+2024-02-19 13:35:04,718:moviepy_funcs:adding "funny_video23.mp4" to list of shorts to be moved
+2024-02-19 13:35:07,099:moviepy_funcs:adding "MemeVideos_video14.mp4" to list of shorts to be moved
+2024-02-19 13:35:08,045:moviepy_funcs:adding "MemeVideos_video25.mp4" to list of shorts to be moved
+2024-02-19 13:35:10,778:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\discordVideos_video5.mp4
+2024-02-19 13:35:10,781:moviepy_funcs: clip moved successfully
+2024-02-19 13:35:10,781:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\discordVideos_video6.mp4
+2024-02-19 13:35:10,782:moviepy_funcs: clip moved successfully
+2024-02-19 13:35:10,782:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\funny_video23.mp4
+2024-02-19 13:35:10,783:moviepy_funcs: clip moved successfully
+2024-02-19 13:35:10,783:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\MemeVideos_video14.mp4
+2024-02-19 13:35:10,785:moviepy_funcs: clip moved successfully
+2024-02-19 13:35:10,785:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\MemeVideos_video25.mp4
+2024-02-19 13:35:10,786:moviepy_funcs: clip moved successfully
+2024-02-19 13:37:48,315:__main__:Imported
+2024-02-19 13:37:53,285:reddit_api:Imported
+2024-02-19 13:37:53,621:moviepy_funcs:Imported
+2024-02-19 13:37:53,622:pushover:Imported
+2024-02-19 13:37:53,623:__main__:Imported
+2024-02-19 13:37:53,623:moviepy_funcs:creating shorts from C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 13:38:17,918:reddit_api:Imported
+2024-02-19 13:38:18,262:moviepy_funcs:Imported
+2024-02-19 13:38:18,263:pushover:Imported
+2024-02-19 13:38:18,264:__main__:Imported
+2024-02-19 13:38:18,264:moviepy_funcs:creating shorts from C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 13:38:20,238:moviepy_funcs:adding "discordVideos_video5.mp4" to list of shorts to be moved
+2024-02-19 13:38:20,527:moviepy_funcs:adding "discordVideos_video6.mp4" to list of shorts to be moved
+2024-02-19 13:38:21,750:moviepy_funcs:adding "funny_video23.mp4" to list of shorts to be moved
+2024-02-19 13:38:24,105:moviepy_funcs:adding "MemeVideos_video14.mp4" to list of shorts to be moved
+2024-02-19 13:38:25,014:moviepy_funcs:adding "MemeVideos_video25.mp4" to list of shorts to be moved
+2024-02-19 13:38:27,665:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\discordVideos_video5.mp4
+2024-02-19 13:38:27,667:moviepy_funcs: clip moved successfully
+2024-02-19 13:38:27,667:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\discordVideos_video6.mp4
+2024-02-19 13:38:27,668:moviepy_funcs: clip moved successfully
+2024-02-19 13:38:27,668:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\funny_video23.mp4
+2024-02-19 13:38:27,670:moviepy_funcs: clip moved successfully
+2024-02-19 13:38:27,670:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\MemeVideos_video14.mp4
+2024-02-19 13:38:27,671:moviepy_funcs: clip moved successfully
+2024-02-19 13:38:27,671:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\MemeVideos_video25.mp4
+2024-02-19 13:38:27,672:moviepy_funcs: clip moved successfully
+2024-02-19 14:02:48,594:pushover:Imported
+2024-02-19 14:02:48,594:reddit_api:Imported
+2024-02-19 14:03:13,011:pushover:Imported
+2024-02-19 14:03:13,011:reddit_api:Imported
+2024-02-19 14:03:13,360:moviepy_funcs:Imported
+2024-02-19 14:03:13,361:__main__:Imported
+2024-02-19 14:03:15,331:reddit_api: API connected to user: Jenna_kittens
+2024-02-19 14:03:15,332:reddit_api:subreddit list created: ['discordVideos', 'Whatcouldgowrong', 'AbruptChaos', 'memes', 'funny', 'CatsAreAssholes', 'shitposting', 'MemeVideos', 'ChildrenFallingOver', '197', '21stCenturyHumour', 'shid_and_camed', 'oompasubs', 'FreshBeans']
+2024-02-19 14:03:15,332:reddit_api: checking posts of discordVideos for suitable videos
+2024-02-19 14:03:15,745:reddit_api:post "49000 vbucks 😁👍 mom please don't 🥺🙏" in "discordVideos" added to list of suitable videos
+2024-02-19 14:03:15,745:reddit_api:post "The Evolution of Technology and it's consequences " in "discordVideos" added to list of suitable videos
+2024-02-19 14:03:15,746:reddit_api:post "Tip" in "discordVideos" added to list of suitable videos
+2024-02-19 14:03:15,746:reddit_api:post "Does it tho ?" in "discordVideos" added to list of suitable videos
+2024-02-19 14:03:15,746:reddit_api:post "They just Dumb" in "discordVideos" added to list of suitable videos
+2024-02-19 14:03:15,746:reddit_api:post "Why" in "discordVideos" added to list of suitable videos
+2024-02-19 14:03:15,746:reddit_api:post "Absolutely real" in "discordVideos" added to list of suitable videos
+2024-02-19 14:03:15,746:reddit_api: checking posts of Whatcouldgowrong for suitable videos
+2024-02-19 14:03:16,034:reddit_api:post "Wearing slippers on a slippery tiles" in "Whatcouldgowrong" added to list of suitable videos
+2024-02-19 14:03:16,034:reddit_api:post "Parkour!" in "Whatcouldgowrong" added to list of suitable videos
+2024-02-19 14:03:16,036:reddit_api: checking posts of AbruptChaos for suitable videos
+2024-02-19 14:03:16,325:reddit_api:post "I guess she had a lot of baggage" in "AbruptChaos" added to list of suitable videos
+2024-02-19 14:03:16,325:reddit_api:post "Damn" in "AbruptChaos" added to list of suitable videos
+2024-02-19 14:03:16,325:reddit_api:post "Firework explodes in a firepit" in "AbruptChaos" added to list of suitable videos
+2024-02-19 14:03:16,325:reddit_api:post "Abrupt bathroom chaos" in "AbruptChaos" added to list of suitable videos
+2024-02-19 14:03:16,325:reddit_api: checking posts of memes for suitable videos
+2024-02-19 14:03:16,655:reddit_api:post "Made this joke while we were watching SpongeBob" in "memes" added to list of suitable videos
+2024-02-19 14:03:16,655:reddit_api: checking posts of funny for suitable videos
+2024-02-19 14:03:16,974:reddit_api:post "We should get a watchdog for security" in "funny" added to list of suitable videos
+2024-02-19 14:03:16,974:reddit_api:post ""I thought this was what the humans do."" in "funny" added to list of suitable videos
+2024-02-19 14:03:16,974:reddit_api:post "Why use your bed when there’s the floor?" in "funny" added to list of suitable videos
+2024-02-19 14:03:16,974:reddit_api: checking posts of CatsAreAssholes for suitable videos
+2024-02-19 14:03:17,287:reddit_api: checking posts of shitposting for suitable videos
+2024-02-19 14:03:17,660:reddit_api:post "What are you doing step-tank?" in "shitposting" added to list of suitable videos
+2024-02-19 14:03:17,660:reddit_api:post "don't attack me" in "shitposting" added to list of suitable videos
+2024-02-19 14:03:17,661:reddit_api: checking posts of MemeVideos for suitable videos
+2024-02-19 14:03:17,998:reddit_api:post "Mgl but it seems legit" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:03:17,998:reddit_api:post "Race" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:03:17,998:reddit_api:post "Life teaches you well" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:03:17,998:reddit_api:post "Training to fight them titans" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:03:17,998:reddit_api:post "Meme" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:03:17,998:reddit_api:post "Made this joke while we were watching SpongeBob." in "MemeVideos" added to list of suitable videos
+2024-02-19 14:03:17,998:reddit_api:post "Perfect tattoo " in "MemeVideos" added to list of suitable videos
+2024-02-19 14:03:17,998:reddit_api:post "Yikes" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:03:17,998:reddit_api: checking posts of ChildrenFallingOver for suitable videos
+2024-02-19 14:03:18,232:reddit_api:post "I thought he was crying" in "ChildrenFallingOver" added to list of suitable videos
+2024-02-19 14:03:18,233:reddit_api:post "My 4 year old sister falling over (Volume up!!!!)" in "ChildrenFallingOver" added to list of suitable videos
+2024-02-19 14:03:18,233:reddit_api:post "there was a slight misunderstanding" in "ChildrenFallingOver" added to list of suitable videos
+2024-02-19 14:03:18,233:reddit_api: checking posts of 197 for suitable videos
+2024-02-19 14:03:18,571:reddit_api:post "rule" in "197" added to list of suitable videos
+2024-02-19 14:03:18,571:reddit_api:post "Joyful rule" in "197" added to list of suitable videos
+2024-02-19 14:03:18,571:reddit_api:post "cellrule" in "197" added to list of suitable videos
+2024-02-19 14:03:18,571:reddit_api:post "Rule" in "197" added to list of suitable videos
+2024-02-19 14:03:18,571:reddit_api:post "Rule (Rule)" in "197" added to list of suitable videos
+2024-02-19 14:03:18,571:reddit_api:post "Peter Piece" in "197" added to list of suitable videos
+2024-02-19 14:03:18,572:reddit_api: checking posts of 21stCenturyHumour for suitable videos
+2024-02-19 14:03:18,840:reddit_api:post "💀" in "21stCenturyHumour" added to list of suitable videos
+2024-02-19 14:03:18,840:reddit_api:post "Gat danm" in "21stCenturyHumour" added to list of suitable videos
+2024-02-19 14:03:18,840:reddit_api:post "..." in "21stCenturyHumour" added to list of suitable videos
+2024-02-19 14:03:18,840:reddit_api:post "✌️😡🧑🏿‍🦱🪦🎮💉" in "21stCenturyHumour" added to list of suitable videos
+2024-02-19 14:03:18,840:reddit_api:post "Why 💀!!!!!!!" in "21stCenturyHumour" added to list of suitable videos
+2024-02-19 14:03:18,840:reddit_api: checking posts of shid_and_camed for suitable videos
+2024-02-19 14:03:19,107:reddit_api:post "This just happened to me" in "shid_and_camed" added to list of suitable videos
+2024-02-19 14:03:19,107:reddit_api:post "In spin we pray" in "shid_and_camed" added to list of suitable videos
+2024-02-19 14:03:19,108:reddit_api:post "Shid and lobodomied" in "shid_and_camed" added to list of suitable videos
+2024-02-19 14:03:19,108:reddit_api:post "Nowhere To Run" in "shid_and_camed" added to list of suitable videos
+2024-02-19 14:03:19,108:reddit_api: checking posts of oompasubs for suitable videos
+2024-02-19 14:03:19,332:reddit_api: checking posts of FreshBeans for suitable videos
+2024-02-19 14:03:19,611:reddit_api:post "pipe" in "FreshBeans" added to list of suitable videos
+2024-02-19 14:03:19,611:reddit_api:post "Posting stolen memes pt.19" in "FreshBeans" added to list of suitable videos
+2024-02-19 14:03:19,611:reddit_api:list of post IDs: ['1atsw3n', '1atxwrq', '1au1s6h', '1au2m85', '1atsvm6', '1aufcjc', '1atvitm', '1au6z3z', '1atuaxa', '1atwirp', '1au1z4c', '1au317q', '1au14xv', '1au93v0', '1auai3t', '1atvgik', '1atwubt', '1au7yxg', '1atuc8i', '1attimn', '1au89p3', '1atvld6', '1au2r2c', '1aturja', '1auicb2', '1au3zaq', '1aucd95', '1attaf4', '1au2qbm', '1aulcks', '1aubou7', '1aty35l', '1atxq7c', '1au1wze', '1atsu8p', '1au6dka', '1au78fi', '1au0t7h', '1au7e9b', '1augmd0', '1aue1gp', '1atv8wd', '1auayy4', '1au0jxn', '1aug8kp', '1atwyff', '1au4ep6']
+2024-02-19 14:03:19,611:reddit_api:starting to download videos from reddit
+2024-02-19 14:03:20,104:reddit_api: Attempting to download video from post: Posting stolen memes pt.19 
+2024-02-19 14:03:24,385:reddit_api: Video from post "Posting stolen memes pt.19" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:03:24,850:reddit_api: Attempting to download video from post: Rule (Rule) 
+2024-02-19 14:03:28,801:reddit_api: Video from post "Rule (Rule)" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:03:30,125:reddit_api: Attempting to download video from post: Damn 
+2024-02-19 14:03:34,115:reddit_api: Video from post "Damn" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:03:34,761:reddit_api: Attempting to download video from post: Perfect tattoo  
+2024-02-19 14:03:39,107:reddit_api: Video from post "Perfect tattoo " saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:03:39,683:reddit_api: Attempting to download video from post: Mgl but it seems legit 
+2024-02-19 14:03:43,740:reddit_api: Video from post "Mgl but it seems legit" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:03:44,309:reddit_api: Attempting to download video from post: Absolutely real 
+2024-02-19 14:03:48,248:reddit_api: Video from post "Absolutely real" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:03:48,851:reddit_api: Attempting to download video from post: Shid and lobodomied 
+2024-02-19 14:03:52,987:reddit_api: Video from post "Shid and lobodomied" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:03:53,493:reddit_api: Attempting to download video from post: Meme 
+2024-02-19 14:03:57,848:reddit_api: Video from post "Meme" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:03:58,499:reddit_api: Attempting to download video from post: Gat danm 
+2024-02-19 14:04:02,547:reddit_api: Video from post "Gat danm" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:04:03,286:reddit_api: Attempting to download video from post: ... 
+2024-02-19 14:04:07,653:reddit_api: Video from post "..." saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:04:10,910:reddit_api: Attempting to download video from post: We should get a watchdog for security 
+2024-02-19 14:04:15,652:reddit_api: Video from post "We should get a watchdog for security" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:04:16,469:reddit_api: Attempting to download video from post: rule 
+2024-02-19 14:04:20,486:reddit_api: Video from post "rule" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:04:21,294:reddit_api: Attempting to download video from post: In spin we pray 
+2024-02-19 14:04:25,415:reddit_api: Video from post "In spin we pray" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:04:26,377:reddit_api: Attempting to download video from post: Why use your bed when there’s the floor? 
+2024-02-19 14:04:30,489:reddit_api: Video from post "Why use your bed when there’s the floor?" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:04:31,389:reddit_api: Attempting to download video from post: cellrule 
+2024-02-19 14:04:35,311:reddit_api: Video from post "cellrule" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:04:36,728:reddit_api: Attempting to download video from post: 49000 vbucks 😁👍 mom please don't 🥺🙏 
+2024-02-19 14:04:41,288:reddit_api: Video from post "49000 vbucks 😁👍 mom please don't 🥺🙏" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:04:41,814:reddit_api: Attempting to download video from post: pipe 
+2024-02-19 14:04:46,332:reddit_api: Video from post "pipe" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:04:46,945:reddit_api: Attempting to download video from post: Life teaches you well 
+2024-02-19 14:04:50,925:reddit_api: Video from post "Life teaches you well" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:04:51,457:reddit_api: Attempting to download video from post: Race 
+2024-02-19 14:04:55,825:reddit_api: Video from post "Race" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:04:56,512:reddit_api: Attempting to download video from post: Abrupt bathroom chaos 
+2024-02-19 14:05:00,609:reddit_api: Video from post "Abrupt bathroom chaos" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:05:01,598:reddit_api: Attempting to download video from post: 💀 
+2024-02-19 14:05:05,782:reddit_api: Video from post "💀" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:05:06,592:reddit_api: Attempting to download video from post: I guess she had a lot of baggage 
+2024-02-19 14:05:10,653:reddit_api: Video from post "I guess she had a lot of baggage" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:05:11,307:reddit_api: Attempting to download video from post: They just Dumb 
+2024-02-19 14:05:15,333:reddit_api: Video from post "They just Dumb" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:05:15,830:reddit_api: Attempting to download video from post: Yikes 
+2024-02-19 14:05:20,634:reddit_api: Video from post "Yikes" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:05:21,187:reddit_api: Attempting to download video from post: Training to fight them titans 
+2024-02-19 14:05:25,125:reddit_api: Video from post "Training to fight them titans" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:05:25,784:reddit_api: Attempting to download video from post: Nowhere To Run 
+2024-02-19 14:05:30,133:reddit_api: Video from post "Nowhere To Run" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:05:35,901:reddit_api: Attempting to download video from post: "I thought this was what the humans do." 
+2024-02-19 14:05:40,986:reddit_api: Video from post ""I thought this was what the humans do."" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:05:41,767:reddit_api: Attempting to download video from post: Joyful rule 
+2024-02-19 14:05:45,895:reddit_api: Video from post "Joyful rule" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:05:47,902:reddit_api: Attempting to download video from post: Parkour! 
+2024-02-19 14:05:52,714:reddit_api: Video from post "Parkour!" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:05:53,594:reddit_api: Attempting to download video from post: I thought he was crying 
+2024-02-19 14:05:57,680:reddit_api: Video from post "I thought he was crying" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:05:58,222:reddit_api: Attempting to download video from post: Made this joke while we were watching SpongeBob. 
+2024-02-19 14:06:02,102:reddit_api: Video from post "Made this joke while we were watching SpongeBob." saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:06:03,390:reddit_api: Attempting to download video from post: don't attack me 
+2024-02-19 14:06:07,788:reddit_api: Video from post "don't attack me" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:06:09,277:reddit_api: Attempting to download video from post: The Evolution of Technology and it's consequences  
+2024-02-19 14:06:13,638:reddit_api: Video from post "The Evolution of Technology and it's consequences " saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:06:14,119:reddit_api: Attempting to download video from post: there was a slight misunderstanding 
+2024-02-19 14:06:18,265:reddit_api: Video from post "there was a slight misunderstanding" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:06:18,744:reddit_api: Attempting to download video from post: My 4 year old sister falling over (Volume up!!!!) 
+2024-02-19 14:06:22,879:reddit_api: Video from post "My 4 year old sister falling over (Volume up!!!!)" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:06:23,379:reddit_api: Attempting to download video from post: Rule 
+2024-02-19 14:06:27,528:reddit_api: Video from post "Rule" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:06:28,872:reddit_api: Attempting to download video from post: Made this joke while we were watching SpongeBob 
+2024-02-19 14:06:33,654:reddit_api: Video from post "Made this joke while we were watching SpongeBob" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:06:34,127:reddit_api: Attempting to download video from post: Why 💀!!!!!!! 
+2024-02-19 14:06:38,832:reddit_api: Video from post "Why 💀!!!!!!!" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:06:42,728:reddit_api: Attempting to download video from post: Wearing slippers on a slippery tiles 
+2024-02-19 14:06:47,648:reddit_api: Video from post "Wearing slippers on a slippery tiles" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:06:48,379:reddit_api: Attempting to download video from post: Tip 
+2024-02-19 14:06:52,483:reddit_api: Video from post "Tip" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:06:52,967:reddit_api: Attempting to download video from post: Firework explodes in a firepit 
+2024-02-19 14:06:57,159:reddit_api: Video from post "Firework explodes in a firepit" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:06:57,648:reddit_api: Attempting to download video from post: ✌️😡🧑🏿‍🦱🪦🎮💉 
+2024-02-19 14:07:01,586:reddit_api: Video from post "✌️😡🧑🏿‍🦱🪦🎮💉" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:07:02,409:reddit_api: Attempting to download video from post: What are you doing step-tank? 
+2024-02-19 14:07:06,422:reddit_api: Video from post "What are you doing step-tank?" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:07:07,119:reddit_api: Attempting to download video from post: Does it tho ? 
+2024-02-19 14:07:11,025:reddit_api: Video from post "Does it tho ?" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:07:11,588:reddit_api: Attempting to download video from post: Why 
+2024-02-19 14:07:15,712:reddit_api: Video from post "Why" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:07:16,579:reddit_api: Attempting to download video from post: This just happened to me 
+2024-02-19 14:07:21,055:reddit_api: Video from post "This just happened to me" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:07:21,555:reddit_api: Attempting to download video from post: Peter Piece 
+2024-02-19 14:07:25,789:reddit_api: Video from post "Peter Piece" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:07:25,790:reddit_api:successfully downloaded 47 videos from reddit for a total of 410s of content.
+2024-02-19 14:07:25,843:pushover:Push notification sent: successfully downloaded 47 videos from reddit for a total of 410s of content.
+2024-02-19 14:07:26,082:moviepy_funcs:combining all mp4s in C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:07:26,082:moviepy_funcs: adding 197_video12.mp4 to compilation
+2024-02-19 14:07:26,363:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:07:26,367:moviepy_funcs: adding 197_video15.mp4 to compilation
+2024-02-19 14:07:26,664:moviepy_funcs: adding 197_video2.mp4 to compilation
+2024-02-19 14:07:26,950:moviepy_funcs: adding 197_video28.mp4 to compilation
+2024-02-19 14:07:27,228:moviepy_funcs:rezising clip height from 270 to 1080
+2024-02-19 14:07:27,230:moviepy_funcs: adding 197_video36.mp4 to compilation
+2024-02-19 14:07:27,536:moviepy_funcs: adding 197_video47.mp4 to compilation
+2024-02-19 14:07:27,830:moviepy_funcs: adding 21stCenturyHumour_video10.mp4 to compilation
+2024-02-19 14:07:28,111:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:07:28,121:moviepy_funcs: adding 21stCenturyHumour_video21.mp4 to compilation
+2024-02-19 14:07:28,461:moviepy_funcs: adding 21stCenturyHumour_video38.mp4 to compilation
+2024-02-19 14:07:28,757:moviepy_funcs: adding 21stCenturyHumour_video42.mp4 to compilation
+2024-02-19 14:07:29,044:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:07:29,053:moviepy_funcs: adding 21stCenturyHumour_video9.mp4 to compilation
+2024-02-19 14:07:29,329:moviepy_funcs: adding AbruptChaos_video20.mp4 to compilation
+2024-02-19 14:07:29,613:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:07:29,615:moviepy_funcs: adding AbruptChaos_video22.mp4 to compilation
+2024-02-19 14:07:29,925:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:07:29,939:moviepy_funcs: adding AbruptChaos_video3.mp4 to compilation
+2024-02-19 14:07:30,128:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:07:30,142:moviepy_funcs: adding AbruptChaos_video41.mp4 to compilation
+2024-02-19 14:07:30,525:moviepy_funcs: adding ChildrenFallingOver_video30.mp4 to compilation
+2024-02-19 14:07:30,839:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:07:30,842:moviepy_funcs: adding ChildrenFallingOver_video34.mp4 to compilation
+2024-02-19 14:07:31,150:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:07:31,152:moviepy_funcs: adding ChildrenFallingOver_video35.mp4 to compilation
+2024-02-19 14:07:31,455:moviepy_funcs:rezising clip height from 260 to 1080
+2024-02-19 14:07:31,456:moviepy_funcs: adding discordVideos_video16.mp4 to compilation
+2024-02-19 14:07:31,767:moviepy_funcs: adding discordVideos_video23.mp4 to compilation
+2024-02-19 14:07:32,071:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:07:32,072:moviepy_funcs: adding discordVideos_video33.mp4 to compilation
+2024-02-19 14:07:32,416:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:07:32,421:moviepy_funcs: adding discordVideos_video40.mp4 to compilation
+2024-02-19 14:07:32,725:moviepy_funcs: adding discordVideos_video44.mp4 to compilation
+2024-02-19 14:07:33,038:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:07:33,040:moviepy_funcs: adding discordVideos_video45.mp4 to compilation
+2024-02-19 14:07:33,353:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:07:33,361:moviepy_funcs: adding discordVideos_video6.mp4 to compilation
+2024-02-19 14:07:33,690:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:07:33,694:moviepy_funcs: adding FreshBeans_video1.mp4 to compilation
+2024-02-19 14:07:34,009:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:07:34,011:moviepy_funcs: adding FreshBeans_video17.mp4 to compilation
+2024-02-19 14:07:34,314:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:07:34,316:moviepy_funcs: adding funny_video11.mp4 to compilation
+2024-02-19 14:07:34,632:moviepy_funcs: adding funny_video14.mp4 to compilation
+2024-02-19 14:07:34,982:moviepy_funcs: adding funny_video27.mp4 to compilation
+2024-02-19 14:07:35,278:moviepy_funcs:rezising clip height from 270 to 1080
+2024-02-19 14:07:35,280:moviepy_funcs: adding memes_video37.mp4 to compilation
+2024-02-19 14:07:35,598:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:07:35,610:moviepy_funcs: adding MemeVideos_video18.mp4 to compilation
+2024-02-19 14:07:35,937:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:07:35,944:moviepy_funcs: adding MemeVideos_video19.mp4 to compilation
+2024-02-19 14:07:36,251:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:07:36,261:moviepy_funcs: adding MemeVideos_video24.mp4 to compilation
+2024-02-19 14:07:36,593:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:07:36,600:moviepy_funcs: adding MemeVideos_video25.mp4 to compilation
+2024-02-19 14:07:36,953:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:07:36,959:moviepy_funcs: adding MemeVideos_video31.mp4 to compilation
+2024-02-19 14:07:37,272:moviepy_funcs: adding MemeVideos_video4.mp4 to compilation
+2024-02-19 14:07:37,599:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:07:37,601:moviepy_funcs: adding MemeVideos_video5.mp4 to compilation
+2024-02-19 14:07:37,911:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:07:37,913:moviepy_funcs: adding MemeVideos_video8.mp4 to compilation
+2024-02-19 14:07:38,259:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:07:38,266:moviepy_funcs: adding shid_and_camed_video13.mp4 to compilation
+2024-02-19 14:07:38,605:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:07:38,610:moviepy_funcs: adding shid_and_camed_video26.mp4 to compilation
+2024-02-19 14:07:38,925:moviepy_funcs: adding shid_and_camed_video46.mp4 to compilation
+2024-02-19 14:07:39,242:moviepy_funcs: adding shid_and_camed_video7.mp4 to compilation
+2024-02-19 14:07:39,597:moviepy_funcs: adding shitposting_video32.mp4 to compilation
+2024-02-19 14:07:39,907:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:07:39,909:moviepy_funcs: adding shitposting_video43.mp4 to compilation
+2024-02-19 14:07:40,215:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:07:40,216:moviepy_funcs: adding Whatcouldgowrong_video29.mp4 to compilation
+2024-02-19 14:07:40,529:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:07:40,532:moviepy_funcs: adding Whatcouldgowrong_video39.mp4 to compilation
+2024-02-19 14:07:40,834:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:24:21,528:pushover:Imported
+2024-02-19 14:24:21,530:reddit_api:Imported
+2024-02-19 14:24:21,997:moviepy_funcs:Imported
+2024-02-19 14:24:21,997:__main__:Imported
+2024-02-19 14:24:23,957:reddit_api: API connected to user: Jenna_kittens
+2024-02-19 14:24:23,958:reddit_api:subreddit list created: ['discordVideos', 'Whatcouldgowrong', 'AbruptChaos', 'memes', 'funny', 'CatsAreAssholes', 'shitposting', 'MemeVideos', 'ChildrenFallingOver', '197', '21stCenturyHumour', 'shid_and_camed', 'oompasubs', 'FreshBeans', 'rodentintercourse', 'okaybuddyretard', 'doodoofard', 'DramaticText', 'AnimalsBeingJerks', 'CatSlaps']
+2024-02-19 14:24:23,958:reddit_api: checking posts of discordVideos for suitable videos
+2024-02-19 14:24:24,363:reddit_api:post "The Evolution of Technology and it's consequences " in "discordVideos" added to list of suitable videos
+2024-02-19 14:24:24,363:reddit_api:post "Tip" in "discordVideos" added to list of suitable videos
+2024-02-19 14:24:24,363:reddit_api:post "Does it tho ?" in "discordVideos" added to list of suitable videos
+2024-02-19 14:24:24,363:reddit_api:post "Why" in "discordVideos" added to list of suitable videos
+2024-02-19 14:24:24,363:reddit_api:post "Title" in "discordVideos" added to list of suitable videos
+2024-02-19 14:24:24,363:reddit_api:post "Absolutely real" in "discordVideos" added to list of suitable videos
+2024-02-19 14:24:24,363:reddit_api:post "Put it away walt" in "discordVideos" added to list of suitable videos
+2024-02-19 14:24:24,363:reddit_api: checking posts of Whatcouldgowrong for suitable videos
+2024-02-19 14:24:24,609:reddit_api:post "Wearing slippers on a slippery tiles" in "Whatcouldgowrong" added to list of suitable videos
+2024-02-19 14:24:24,609:reddit_api:post "Parkour!" in "Whatcouldgowrong" added to list of suitable videos
+2024-02-19 14:24:24,609:reddit_api: checking posts of AbruptChaos for suitable videos
+2024-02-19 14:24:24,883:reddit_api:post "I guess she had a lot of baggage" in "AbruptChaos" added to list of suitable videos
+2024-02-19 14:24:24,883:reddit_api:post "Damn" in "AbruptChaos" added to list of suitable videos
+2024-02-19 14:24:24,883:reddit_api:post "Firework explodes in a firepit" in "AbruptChaos" added to list of suitable videos
+2024-02-19 14:24:24,883:reddit_api:post "Abrupt bathroom chaos" in "AbruptChaos" added to list of suitable videos
+2024-02-19 14:24:24,883:reddit_api: checking posts of memes for suitable videos
+2024-02-19 14:24:25,210:reddit_api:post "Made this joke while we were watching SpongeBob" in "memes" added to list of suitable videos
+2024-02-19 14:24:25,210:reddit_api: checking posts of funny for suitable videos
+2024-02-19 14:24:25,551:reddit_api:post "We should get a watchdog for security" in "funny" added to list of suitable videos
+2024-02-19 14:24:25,551:reddit_api:post ""I thought this was what the humans do."" in "funny" added to list of suitable videos
+2024-02-19 14:24:25,551:reddit_api:post "Why use your bed when there’s the floor?" in "funny" added to list of suitable videos
+2024-02-19 14:24:25,551:reddit_api: checking posts of CatsAreAssholes for suitable videos
+2024-02-19 14:24:25,835:reddit_api: checking posts of shitposting for suitable videos
+2024-02-19 14:24:26,160:reddit_api:post "What are you doing step-tank?" in "shitposting" added to list of suitable videos
+2024-02-19 14:24:26,160:reddit_api:post "don't attack me" in "shitposting" added to list of suitable videos
+2024-02-19 14:24:26,160:reddit_api: checking posts of MemeVideos for suitable videos
+2024-02-19 14:24:26,511:reddit_api:post "Race" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:24:26,512:reddit_api:post "Life teaches you well" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:24:26,512:reddit_api:post "Training to fight them titans" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:24:26,512:reddit_api:post "Made this joke while we were watching SpongeBob." in "MemeVideos" added to list of suitable videos
+2024-02-19 14:24:26,512:reddit_api:post "We need a better anti cheat system" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:24:26,512:reddit_api:post "Meme" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:24:26,512:reddit_api:post "Perfect tattoo " in "MemeVideos" added to list of suitable videos
+2024-02-19 14:24:26,512:reddit_api:post "Yikes" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:24:26,512:reddit_api: checking posts of ChildrenFallingOver for suitable videos
+2024-02-19 14:24:26,727:reddit_api:post "My 4 year old sister falling over (Volume up!!!!)" in "ChildrenFallingOver" added to list of suitable videos
+2024-02-19 14:24:26,728:reddit_api:post "there was a slight misunderstanding" in "ChildrenFallingOver" added to list of suitable videos
+2024-02-19 14:24:26,728:reddit_api: checking posts of 197 for suitable videos
+2024-02-19 14:24:27,093:reddit_api:post "rule" in "197" added to list of suitable videos
+2024-02-19 14:24:27,093:reddit_api:post "Joyful rule" in "197" added to list of suitable videos
+2024-02-19 14:24:27,093:reddit_api:post "cellrule" in "197" added to list of suitable videos
+2024-02-19 14:24:27,093:reddit_api:post "Rule" in "197" added to list of suitable videos
+2024-02-19 14:24:27,094:reddit_api:post "Peter Piece" in "197" added to list of suitable videos
+2024-02-19 14:24:27,094:reddit_api: checking posts of 21stCenturyHumour for suitable videos
+2024-02-19 14:24:27,373:reddit_api:post "💀" in "21stCenturyHumour" added to list of suitable videos
+2024-02-19 14:24:27,373:reddit_api:post "Gat danm" in "21stCenturyHumour" added to list of suitable videos
+2024-02-19 14:24:27,373:reddit_api:post "..." in "21stCenturyHumour" added to list of suitable videos
+2024-02-19 14:24:27,373:reddit_api:post "✌️😡🧑🏿‍🦱🪦🎮💉" in "21stCenturyHumour" added to list of suitable videos
+2024-02-19 14:24:27,373:reddit_api:post "Why 💀!!!!!!!" in "21stCenturyHumour" added to list of suitable videos
+2024-02-19 14:24:27,373:reddit_api: checking posts of shid_and_camed for suitable videos
+2024-02-19 14:24:27,637:reddit_api:post "This just happened to me" in "shid_and_camed" added to list of suitable videos
+2024-02-19 14:24:27,637:reddit_api:post "In spin we pray" in "shid_and_camed" added to list of suitable videos
+2024-02-19 14:24:27,637:reddit_api:post "Shid and lobodomied" in "shid_and_camed" added to list of suitable videos
+2024-02-19 14:24:27,637:reddit_api:post "Nowhere To Run" in "shid_and_camed" added to list of suitable videos
+2024-02-19 14:24:27,637:reddit_api: checking posts of oompasubs for suitable videos
+2024-02-19 14:24:27,944:reddit_api: checking posts of FreshBeans for suitable videos
+2024-02-19 14:24:28,178:reddit_api:post "pipe" in "FreshBeans" added to list of suitable videos
+2024-02-19 14:24:28,179:reddit_api:post "Posting stolen memes pt.19" in "FreshBeans" added to list of suitable videos
+2024-02-19 14:24:28,179:reddit_api: checking posts of rodentintercourse for suitable videos
+2024-02-19 14:24:28,396:reddit_api: checking posts of okaybuddyretard for suitable videos
+2024-02-19 14:24:28,673:reddit_api:post "Bears are cute " in "okaybuddyretard" added to list of suitable videos
+2024-02-19 14:24:28,673:reddit_api:post "I felt it" in "okaybuddyretard" added to list of suitable videos
+2024-02-19 14:24:28,673:reddit_api:post "Big kitty" in "okaybuddyretard" added to list of suitable videos
+2024-02-19 14:24:28,673:reddit_api:post "Definitely not" in "okaybuddyretard" added to list of suitable videos
+2024-02-19 14:24:28,673:reddit_api: checking posts of doodoofard for suitable videos
+2024-02-19 14:24:29,016:reddit_api:post "God did not have him" in "doodoofard" added to list of suitable videos
+2024-02-19 14:24:29,016:reddit_api:post "reale" in "doodoofard" added to list of suitable videos
+2024-02-19 14:24:29,016:reddit_api:post "." in "doodoofard" added to list of suitable videos
+2024-02-19 14:24:29,016:reddit_api:post "Oh! Oh...." in "doodoofard" added to list of suitable videos
+2024-02-19 14:24:29,016:reddit_api:post "Sniffs" in "doodoofard" added to list of suitable videos
+2024-02-19 14:24:29,016:reddit_api:post "The prank💀" in "doodoofard" added to list of suitable videos
+2024-02-19 14:24:29,016:reddit_api:post "Pointless fard" in "doodoofard" added to list of suitable videos
+2024-02-19 14:24:29,016:reddit_api:post "🖐️🫥🤚" in "doodoofard" added to list of suitable videos
+2024-02-19 14:24:29,017:reddit_api:post "AAAAALLLLLLVVVIIIINNNN" in "doodoofard" added to list of suitable videos
+2024-02-19 14:24:29,017:reddit_api:post "Mustard flavour!" in "doodoofard" added to list of suitable videos
+2024-02-19 14:24:29,017:reddit_api: checking posts of DramaticText for suitable videos
+2024-02-19 14:24:29,252:reddit_api: checking posts of AnimalsBeingJerks for suitable videos
+2024-02-19 14:24:29,458:reddit_api: checking posts of CatSlaps for suitable videos
+2024-02-19 14:24:29,734:reddit_api:list of post IDs: ['1atxwrq', '1au1s6h', '1au2m85', '1aufcjc', '1au74wi', '1atvitm', '1au1ti9', '1au6z3z', '1atuaxa', '1atwirp', '1au1z4c', '1au317q', '1au14xv', '1au93v0', '1auai3t', '1atvgik', '1atwubt', '1au7yxg', '1atuc8i', '1au89p3', '1atvld6', '1au2r2c', '1auicb2', '1aujsls', '1aturja', '1au3zaq', '1aucd95', '1au2qbm', '1aulcks', '1aubou7', '1aty35l', '1atxq7c', '1au1wze', '1au6dka', '1au78fi', '1au0t7h', '1au7e9b', '1augmd0', '1aue1gp', '1atv8wd', '1auayy4', '1au0jxn', '1aug8kp', '1atwyff', '1au4ep6', '1au1hts', '1au1idr', '1audyxa', '1audxz7', '1au97r0', '1au1zb9', '1aua2me', '1aty6ef', '1aud996', '1atwnde', '1atvmau', '1au5rru', '1attwi4', '1atwdtc']
+2024-02-19 14:24:29,734:reddit_api:starting to download videos from reddit
+2024-02-19 14:24:30,309:reddit_api: Attempting to download video from post: Absolutely real 
+2024-02-19 14:24:34,682:reddit_api: Video from post "Absolutely real" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:24:35,136:reddit_api: Attempting to download video from post: AAAAALLLLLLVVVIIIINNNN 
+2024-02-19 14:24:39,621:reddit_api: Video from post "AAAAALLLLLLVVVIIIINNNN" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:24:40,492:reddit_api: Attempting to download video from post: cellrule 
+2024-02-19 14:24:45,013:reddit_api: Video from post "cellrule" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:24:46,040:reddit_api: Attempting to download video from post: rule 
+2024-02-19 14:24:50,471:reddit_api: Video from post "rule" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:24:50,912:reddit_api: Attempting to download video from post: 🖐️🫥🤚 
+2024-02-19 14:24:55,696:reddit_api: Video from post "🖐️🫥🤚" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:24:56,252:reddit_api: Attempting to download video from post: God did not have him 
+2024-02-19 14:25:00,668:reddit_api: Video from post "God did not have him" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:25:01,363:reddit_api: Attempting to download video from post: ... 
+2024-02-19 14:25:06,336:reddit_api: Video from post "..." saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:25:06,893:reddit_api: Attempting to download video from post: reale 
+2024-02-19 14:25:12,466:reddit_api: Video from post "reale" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:25:12,958:reddit_api: Attempting to download video from post: Definitely not 
+2024-02-19 14:25:17,448:reddit_api: Video from post "Definitely not" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:25:18,003:reddit_api: Attempting to download video from post: Rule 
+2024-02-19 14:25:22,333:reddit_api: Video from post "Rule" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:25:23,768:reddit_api: Attempting to download video from post: Made this joke while we were watching SpongeBob 
+2024-02-19 14:25:28,407:reddit_api: Video from post "Made this joke while we were watching SpongeBob" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:25:29,628:reddit_api: Attempting to download video from post: Damn 
+2024-02-19 14:25:33,872:reddit_api: Video from post "Damn" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:25:34,705:reddit_api: Attempting to download video from post: This just happened to me 
+2024-02-19 14:25:38,995:reddit_api: Video from post "This just happened to me" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:25:40,943:reddit_api: Attempting to download video from post: Parkour! 
+2024-02-19 14:25:45,693:reddit_api: Video from post "Parkour!" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:25:46,209:reddit_api: Attempting to download video from post: Training to fight them titans 
+2024-02-19 14:25:50,348:reddit_api: Video from post "Training to fight them titans" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:25:51,042:reddit_api: Attempting to download video from post: Abrupt bathroom chaos 
+2024-02-19 14:25:55,629:reddit_api: Video from post "Abrupt bathroom chaos" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:25:56,323:reddit_api: Attempting to download video from post: Posting stolen memes pt.19 
+2024-02-19 14:26:00,884:reddit_api: Video from post "Posting stolen memes pt.19" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:26:01,543:reddit_api: Attempting to download video from post: Gat danm 
+2024-02-19 14:26:06,235:reddit_api: Video from post "Gat danm" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:26:06,723:reddit_api: Attempting to download video from post: . 
+2024-02-19 14:26:11,252:reddit_api: Video from post "." saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:26:11,715:reddit_api: Attempting to download video from post: Pointless fard 
+2024-02-19 14:26:16,419:reddit_api: Video from post "Pointless fard" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:26:16,918:reddit_api: Attempting to download video from post: Big kitty 
+2024-02-19 14:26:21,190:reddit_api: Video from post "Big kitty" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:26:21,726:reddit_api: Attempting to download video from post: pipe 
+2024-02-19 14:26:26,086:reddit_api: Video from post "pipe" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:26:26,575:reddit_api: Attempting to download video from post: We need a better anti cheat system 
+2024-02-19 14:26:30,976:reddit_api: Video from post "We need a better anti cheat system" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:26:31,467:reddit_api: Attempting to download video from post: Mustard flavour! 
+2024-02-19 14:26:36,199:reddit_api: Video from post "Mustard flavour!" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:26:37,293:reddit_api: Attempting to download video from post: In spin we pray 
+2024-02-19 14:26:42,235:reddit_api: Video from post "In spin we pray" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:26:42,893:reddit_api: Attempting to download video from post: Tip 
+2024-02-19 14:26:47,682:reddit_api: Video from post "Tip" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:26:48,230:reddit_api: Attempting to download video from post: Race 
+2024-02-19 14:26:52,739:reddit_api: Video from post "Race" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:26:53,317:reddit_api: Attempting to download video from post: Why 
+2024-02-19 14:26:57,896:reddit_api: Video from post "Why" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:26:58,431:reddit_api: Attempting to download video from post: Made this joke while we were watching SpongeBob. 
+2024-02-19 14:27:02,768:reddit_api: Video from post "Made this joke while we were watching SpongeBob." saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:27:03,343:reddit_api: Attempting to download video from post: Shid and lobodomied 
+2024-02-19 14:27:08,005:reddit_api: Video from post "Shid and lobodomied" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:27:08,914:reddit_api: Attempting to download video from post: What are you doing step-tank? 
+2024-02-19 14:27:13,637:reddit_api: Video from post "What are you doing step-tank?" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:27:14,135:reddit_api: Attempting to download video from post: Why 💀!!!!!!! 
+2024-02-19 14:27:18,766:reddit_api: Video from post "Why 💀!!!!!!!" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:27:19,263:reddit_api: Attempting to download video from post: I felt it 
+2024-02-19 14:27:24,153:reddit_api: Video from post "I felt it" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:27:24,839:reddit_api: Attempting to download video from post: Does it tho ? 
+2024-02-19 14:27:29,620:reddit_api: Video from post "Does it tho ?" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:27:30,707:reddit_api: Attempting to download video from post: Title 
+2024-02-19 14:27:35,434:reddit_api: Video from post "Title" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:27:38,967:reddit_api: Attempting to download video from post: Wearing slippers on a slippery tiles 
+2024-02-19 14:27:44,162:reddit_api: Video from post "Wearing slippers on a slippery tiles" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:27:44,809:reddit_api: Attempting to download video from post: Perfect tattoo  
+2024-02-19 14:27:49,260:reddit_api: Video from post "Perfect tattoo " saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:27:49,772:reddit_api: Attempting to download video from post: Oh! Oh.... 
+2024-02-19 14:27:54,341:reddit_api: Video from post "Oh! Oh...." saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:27:57,348:reddit_api: Attempting to download video from post: We should get a watchdog for security 
+2024-02-19 14:28:03,179:reddit_api: Video from post "We should get a watchdog for security" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:28:09,232:reddit_api: Attempting to download video from post: "I thought this was what the humans do." 
+2024-02-19 14:28:14,545:reddit_api: Video from post ""I thought this was what the humans do."" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:28:15,044:reddit_api: Attempting to download video from post: ✌️😡🧑🏿‍🦱🪦🎮💉 
+2024-02-19 14:28:19,469:reddit_api: Video from post "✌️😡🧑🏿‍🦱🪦🎮💉" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:28:19,974:reddit_api: Attempting to download video from post: The prank💀 
+2024-02-19 14:28:24,764:reddit_api: Video from post "The prank💀" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:28:25,531:reddit_api: Attempting to download video from post: Joyful rule 
+2024-02-19 14:28:30,001:reddit_api: Video from post "Joyful rule" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:28:30,511:reddit_api: Attempting to download video from post: Yikes 
+2024-02-19 14:28:34,859:reddit_api: Video from post "Yikes" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:28:35,829:reddit_api: Attempting to download video from post: Why use your bed when there’s the floor? 
+2024-02-19 14:28:40,342:reddit_api: Video from post "Why use your bed when there’s the floor?" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:28:40,960:reddit_api: Attempting to download video from post: Life teaches you well 
+2024-02-19 14:28:45,338:reddit_api: Video from post "Life teaches you well" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:28:45,877:reddit_api: Attempting to download video from post: Meme 
+2024-02-19 14:28:50,055:reddit_api: Video from post "Meme" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:28:50,599:reddit_api: Attempting to download video from post: Peter Piece 
+2024-02-19 14:28:54,904:reddit_api: Video from post "Peter Piece" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:28:55,442:reddit_api: Attempting to download video from post: Firework explodes in a firepit 
+2024-02-19 14:28:59,832:reddit_api: Video from post "Firework explodes in a firepit" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:29:00,426:reddit_api: Attempting to download video from post: Nowhere To Run 
+2024-02-19 14:29:04,639:reddit_api: Video from post "Nowhere To Run" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:29:05,855:reddit_api: Attempting to download video from post: don't attack me 
+2024-02-19 14:29:11,364:reddit_api: Video from post "don't attack me" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:29:11,820:reddit_api: Attempting to download video from post: Bears are cute  
+2024-02-19 14:29:15,916:reddit_api: Video from post "Bears are cute " saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:29:16,714:reddit_api: Attempting to download video from post: I guess she had a lot of baggage 
+2024-02-19 14:29:21,084:reddit_api: Video from post "I guess she had a lot of baggage" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:29:21,644:reddit_api: Attempting to download video from post: Put it away walt 
+2024-02-19 14:29:25,753:reddit_api: Video from post "Put it away walt" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:29:26,248:reddit_api: Attempting to download video from post: My 4 year old sister falling over (Volume up!!!!) 
+2024-02-19 14:29:30,389:reddit_api: Video from post "My 4 year old sister falling over (Volume up!!!!)" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:29:30,852:reddit_api: Attempting to download video from post: there was a slight misunderstanding 
+2024-02-19 14:29:35,086:reddit_api: Video from post "there was a slight misunderstanding" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:29:36,569:reddit_api: Attempting to download video from post: The Evolution of Technology and it's consequences  
+2024-02-19 14:29:41,559:reddit_api: Video from post "The Evolution of Technology and it's consequences " saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:29:42,651:reddit_api: Attempting to download video from post: 💀 
+2024-02-19 14:29:47,328:reddit_api: Video from post "💀" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:29:47,853:reddit_api: Attempting to download video from post: Sniffs 
+2024-02-19 14:29:52,111:reddit_api: Video from post "Sniffs" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:29:52,112:reddit_api:successfully downloaded 59 videos from reddit for a total of 497s of content.
+2024-02-19 14:29:52,186:pushover:Push notification sent: successfully downloaded 59 videos from reddit for a total of 497s of content.
+2024-02-19 14:29:52,963:moviepy_funcs:combining all mp4s in C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:29:52,963:moviepy_funcs: adding 197_video10.mp4 to compilation
+2024-02-19 14:29:53,253:moviepy_funcs: adding 197_video3.mp4 to compilation
+2024-02-19 14:29:53,559:moviepy_funcs: adding 197_video4.mp4 to compilation
+2024-02-19 14:29:53,859:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:29:53,860:moviepy_funcs: adding 197_video43.mp4 to compilation
+2024-02-19 14:29:54,163:moviepy_funcs:rezising clip height from 270 to 1080
+2024-02-19 14:29:54,165:moviepy_funcs: adding 197_video48.mp4 to compilation
+2024-02-19 14:29:54,451:moviepy_funcs: adding 21stCenturyHumour_video18.mp4 to compilation
+2024-02-19 14:29:54,729:moviepy_funcs: adding 21stCenturyHumour_video32.mp4 to compilation
+2024-02-19 14:29:55,042:moviepy_funcs: adding 21stCenturyHumour_video41.mp4 to compilation
+2024-02-19 14:29:55,326:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:29:55,334:moviepy_funcs: adding 21stCenturyHumour_video58.mp4 to compilation
+2024-02-19 14:29:55,626:moviepy_funcs: adding 21stCenturyHumour_video7.mp4 to compilation
+2024-02-19 14:29:55,906:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:29:55,913:moviepy_funcs: adding AbruptChaos_video12.mp4 to compilation
+2024-02-19 14:29:56,069:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:29:56,075:moviepy_funcs: adding AbruptChaos_video16.mp4 to compilation
+2024-02-19 14:29:56,372:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:29:56,374:moviepy_funcs: adding AbruptChaos_video49.mp4 to compilation
+2024-02-19 14:29:56,720:moviepy_funcs: adding AbruptChaos_video53.mp4 to compilation
+2024-02-19 14:29:57,016:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:29:57,026:moviepy_funcs: adding ChildrenFallingOver_video55.mp4 to compilation
+2024-02-19 14:29:57,304:moviepy_funcs:rezising clip height from 260 to 1080
+2024-02-19 14:29:57,305:moviepy_funcs: adding ChildrenFallingOver_video56.mp4 to compilation
+2024-02-19 14:29:57,590:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:29:57,592:moviepy_funcs: adding discordVideos_video1.mp4 to compilation
+2024-02-19 14:29:57,909:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:29:57,914:moviepy_funcs: adding discordVideos_video26.mp4 to compilation
+2024-02-19 14:29:58,222:moviepy_funcs: adding discordVideos_video28.mp4 to compilation
+2024-02-19 14:29:58,531:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:29:58,543:moviepy_funcs: adding discordVideos_video34.mp4 to compilation
+2024-02-19 14:29:58,832:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:29:58,834:moviepy_funcs: adding discordVideos_video35.mp4 to compilation
+2024-02-19 14:29:59,127:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:29:59,129:moviepy_funcs: adding discordVideos_video54.mp4 to compilation
+2024-02-19 14:29:59,421:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:29:59,429:moviepy_funcs: adding discordVideos_video57.mp4 to compilation
+2024-02-19 14:29:59,782:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:29:59,787:moviepy_funcs: adding doodoofard_video19.mp4 to compilation
+2024-02-19 14:30:00,169:moviepy_funcs: adding doodoofard_video2.mp4 to compilation
+2024-02-19 14:30:00,506:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:30:00,511:moviepy_funcs: adding doodoofard_video20.mp4 to compilation
+2024-02-19 14:30:00,835:moviepy_funcs: adding doodoofard_video24.mp4 to compilation
+2024-02-19 14:30:01,162:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:30:01,169:moviepy_funcs: adding doodoofard_video38.mp4 to compilation
+2024-02-19 14:30:01,517:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:30:01,530:moviepy_funcs: adding doodoofard_video42.mp4 to compilation
+2024-02-19 14:30:01,870:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:30:01,876:moviepy_funcs: adding doodoofard_video5.mp4 to compilation
+2024-02-19 14:30:02,224:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:30:02,233:moviepy_funcs: adding doodoofard_video59.mp4 to compilation
+2024-02-19 14:30:02,554:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:30:02,561:moviepy_funcs: adding doodoofard_video6.mp4 to compilation
+2024-02-19 14:30:02,921:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:30:02,940:moviepy_funcs: adding doodoofard_video8.mp4 to compilation
+2024-02-19 14:30:03,276:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:30:03,282:moviepy_funcs: adding FreshBeans_video17.mp4 to compilation
+2024-02-19 14:30:03,615:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:30:03,618:moviepy_funcs: adding FreshBeans_video22.mp4 to compilation
+2024-02-19 14:30:03,952:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:30:03,958:moviepy_funcs: adding funny_video39.mp4 to compilation
+2024-02-19 14:30:04,327:moviepy_funcs: adding funny_video40.mp4 to compilation
+2024-02-19 14:30:04,650:moviepy_funcs:rezising clip height from 270 to 1080
+2024-02-19 14:30:04,654:moviepy_funcs: adding funny_video45.mp4 to compilation
+2024-02-19 14:30:05,060:moviepy_funcs: adding memes_video11.mp4 to compilation
+2024-02-19 14:30:05,433:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:30:05,445:moviepy_funcs: adding MemeVideos_video15.mp4 to compilation
+2024-02-19 14:30:05,779:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:30:05,785:moviepy_funcs: adding MemeVideos_video23.mp4 to compilation
+2024-02-19 14:30:06,129:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:30:06,136:moviepy_funcs: adding MemeVideos_video27.mp4 to compilation
+2024-02-19 14:30:06,432:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:30:06,443:moviepy_funcs: adding MemeVideos_video29.mp4 to compilation
+2024-02-19 14:30:06,739:moviepy_funcs: adding MemeVideos_video37.mp4 to compilation
+2024-02-19 14:30:07,045:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:30:07,049:moviepy_funcs: adding MemeVideos_video44.mp4 to compilation
+2024-02-19 14:30:07,389:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:30:07,399:moviepy_funcs: adding MemeVideos_video46.mp4 to compilation
+2024-02-19 14:30:07,750:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:30:07,757:moviepy_funcs: adding MemeVideos_video47.mp4 to compilation
+2024-02-19 14:30:08,100:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:30:08,106:moviepy_funcs: adding okaybuddyretard_video21.mp4 to compilation
+2024-02-19 14:30:08,408:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:30:08,411:moviepy_funcs: adding okaybuddyretard_video33.mp4 to compilation
+2024-02-19 14:30:08,723:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:30:08,726:moviepy_funcs: adding okaybuddyretard_video52.mp4 to compilation
+2024-02-19 14:30:09,032:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:30:09,034:moviepy_funcs: adding okaybuddyretard_video9.mp4 to compilation
+2024-02-19 14:30:09,349:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:30:09,352:moviepy_funcs: adding shid_and_camed_video13.mp4 to compilation
+2024-02-19 14:30:09,663:moviepy_funcs: adding shid_and_camed_video25.mp4 to compilation
+2024-02-19 14:30:09,988:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:30:09,996:moviepy_funcs: adding shid_and_camed_video30.mp4 to compilation
+2024-02-19 14:30:10,334:moviepy_funcs: adding shid_and_camed_video50.mp4 to compilation
+2024-02-19 14:30:10,658:moviepy_funcs: adding shitposting_video31.mp4 to compilation
+2024-02-19 14:30:11,013:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:30:11,019:moviepy_funcs: adding shitposting_video51.mp4 to compilation
+2024-02-19 14:30:11,415:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:30:11,419:moviepy_funcs: adding Whatcouldgowrong_video14.mp4 to compilation
+2024-02-19 14:30:11,794:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:30:11,797:moviepy_funcs: adding Whatcouldgowrong_video36.mp4 to compilation
+2024-02-19 14:30:12,131:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:36:27,242:moviepy_funcs:Compilation video created
+2024-02-19 14:36:27,331:pushover:Push notification sent: Daily Compilation Created
+2024-02-19 14:36:27,881:moviepy_funcs:creating shorts from C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:36:28,901:moviepy_funcs:adding "197_video4.mp4" to list of shorts to be moved
+2024-02-19 14:36:29,218:moviepy_funcs:adding "197_video43.mp4" to list of shorts to be moved
+2024-02-19 14:36:31,808:moviepy_funcs:adding "AbruptChaos_video16.mp4" to list of shorts to be moved
+2024-02-19 14:36:32,837:moviepy_funcs:adding "ChildrenFallingOver_video55.mp4" to list of shorts to be moved
+2024-02-19 14:36:33,170:moviepy_funcs:adding "ChildrenFallingOver_video56.mp4" to list of shorts to be moved
+2024-02-19 14:36:33,550:moviepy_funcs:adding "discordVideos_video1.mp4" to list of shorts to be moved
+2024-02-19 14:36:34,555:moviepy_funcs:adding "discordVideos_video34.mp4" to list of shorts to be moved
+2024-02-19 14:36:34,879:moviepy_funcs:adding "discordVideos_video35.mp4" to list of shorts to be moved
+2024-02-19 14:36:36,317:moviepy_funcs:adding "doodoofard_video2.mp4" to list of shorts to be moved
+2024-02-19 14:36:36,970:moviepy_funcs:adding "doodoofard_video24.mp4" to list of shorts to be moved
+2024-02-19 14:36:37,650:moviepy_funcs:adding "doodoofard_video42.mp4" to list of shorts to be moved
+2024-02-19 14:36:38,015:moviepy_funcs:adding "doodoofard_video5.mp4" to list of shorts to be moved
+2024-02-19 14:36:38,387:moviepy_funcs:adding "doodoofard_video59.mp4" to list of shorts to be moved
+2024-02-19 14:36:39,070:moviepy_funcs:adding "doodoofard_video8.mp4" to list of shorts to be moved
+2024-02-19 14:36:39,420:moviepy_funcs:adding "FreshBeans_video17.mp4" to list of shorts to be moved
+2024-02-19 14:36:39,759:moviepy_funcs:adding "FreshBeans_video22.mp4" to list of shorts to be moved
+2024-02-19 14:36:40,429:moviepy_funcs:adding "funny_video40.mp4" to list of shorts to be moved
+2024-02-19 14:36:42,970:moviepy_funcs:adding "MemeVideos_video37.mp4" to list of shorts to be moved
+2024-02-19 14:36:44,437:moviepy_funcs:adding "okaybuddyretard_video21.mp4" to list of shorts to be moved
+2024-02-19 14:36:44,775:moviepy_funcs:adding "okaybuddyretard_video33.mp4" to list of shorts to be moved
+2024-02-19 14:36:45,074:moviepy_funcs:adding "okaybuddyretard_video52.mp4" to list of shorts to be moved
+2024-02-19 14:36:45,378:moviepy_funcs:adding "okaybuddyretard_video9.mp4" to list of shorts to be moved
+2024-02-19 14:36:46,926:moviepy_funcs:adding "shitposting_video31.mp4" to list of shorts to be moved
+2024-02-19 14:36:47,265:moviepy_funcs:adding "shitposting_video51.mp4" to list of shorts to be moved
+2024-02-19 14:36:47,565:moviepy_funcs:adding "Whatcouldgowrong_video14.mp4" to list of shorts to be moved
+2024-02-19 14:36:47,862:moviepy_funcs:adding "Whatcouldgowrong_video36.mp4" to list of shorts to be moved
+2024-02-19 14:36:47,871:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\197_video4.mp4
+2024-02-19 14:36:47,874:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,874:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\197_video43.mp4
+2024-02-19 14:36:47,876:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,876:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\AbruptChaos_video16.mp4
+2024-02-19 14:36:47,878:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,878:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\ChildrenFallingOver_video55.mp4
+2024-02-19 14:36:47,879:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,879:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\ChildrenFallingOver_video56.mp4
+2024-02-19 14:36:47,880:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,880:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\discordVideos_video1.mp4
+2024-02-19 14:36:47,882:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,882:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\discordVideos_video34.mp4
+2024-02-19 14:36:47,883:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,883:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\discordVideos_video35.mp4
+2024-02-19 14:36:47,885:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,885:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\doodoofard_video2.mp4
+2024-02-19 14:36:47,886:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,886:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\doodoofard_video24.mp4
+2024-02-19 14:36:47,887:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,887:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\doodoofard_video42.mp4
+2024-02-19 14:36:47,888:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,888:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\doodoofard_video5.mp4
+2024-02-19 14:36:47,890:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,890:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\doodoofard_video59.mp4
+2024-02-19 14:36:47,892:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,892:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\doodoofard_video8.mp4
+2024-02-19 14:36:47,893:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,893:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\FreshBeans_video17.mp4
+2024-02-19 14:36:47,894:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,894:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\FreshBeans_video22.mp4
+2024-02-19 14:36:47,895:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,895:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\funny_video40.mp4
+2024-02-19 14:36:47,897:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,897:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\MemeVideos_video37.mp4
+2024-02-19 14:36:47,898:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,898:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\okaybuddyretard_video21.mp4
+2024-02-19 14:36:47,900:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,900:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\okaybuddyretard_video33.mp4
+2024-02-19 14:36:47,901:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,901:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\okaybuddyretard_video52.mp4
+2024-02-19 14:36:47,903:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,903:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\okaybuddyretard_video9.mp4
+2024-02-19 14:36:47,904:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,904:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\shitposting_video31.mp4
+2024-02-19 14:36:47,905:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,905:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\shitposting_video51.mp4
+2024-02-19 14:36:47,906:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,906:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\Whatcouldgowrong_video14.mp4
+2024-02-19 14:36:47,907:moviepy_funcs: clip moved successfully
+2024-02-19 14:36:47,907:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\Whatcouldgowrong_video36.mp4
+2024-02-19 14:36:47,909:moviepy_funcs: clip moved successfully
+2024-02-19 14:43:22,894:pushover:Imported
+2024-02-19 14:43:22,894:reddit_api:Imported
+2024-02-19 14:43:24,211:moviepy_funcs:Imported
+2024-02-19 14:43:24,212:__main__:Imported
+2024-02-19 14:43:26,118:reddit_api: API connected to user: Jenna_kittens
+2024-02-19 14:43:26,119:reddit_api:subreddit list created: ['discordVideos', 'Whatcouldgowrong', 'AbruptChaos', 'memes', 'funny', 'CatsAreAssholes', 'shitposting', 'MemeVideos', 'ChildrenFallingOver', '21stCenturyHumour', 'shid_and_camed', 'oompasubs', 'FreshBeans', 'rodentintercourse', 'okaybuddyretard', 'doodoofard', 'DramaticText', 'AnimalsBeingJerks', 'CatSlaps']
+2024-02-19 14:43:26,119:reddit_api: checking posts of discordVideos for suitable videos
+2024-02-19 14:43:26,496:reddit_api:post "The Evolution of Technology and it's consequences " in "discordVideos" added to list of suitable videos
+2024-02-19 14:43:26,496:reddit_api:post "Tip" in "discordVideos" added to list of suitable videos
+2024-02-19 14:43:26,496:reddit_api:post "Does it tho ?" in "discordVideos" added to list of suitable videos
+2024-02-19 14:43:26,496:reddit_api:post "Why" in "discordVideos" added to list of suitable videos
+2024-02-19 14:43:26,496:reddit_api:post "Title" in "discordVideos" added to list of suitable videos
+2024-02-19 14:43:26,496:reddit_api:post "Absolutely real" in "discordVideos" added to list of suitable videos
+2024-02-19 14:43:26,496:reddit_api:post "Put it away walt" in "discordVideos" added to list of suitable videos
+2024-02-19 14:43:26,496:reddit_api: checking posts of Whatcouldgowrong for suitable videos
+2024-02-19 14:43:26,828:reddit_api:post "Wearing slippers on a slippery tiles" in "Whatcouldgowrong" added to list of suitable videos
+2024-02-19 14:43:26,828:reddit_api:post "Parkour!" in "Whatcouldgowrong" added to list of suitable videos
+2024-02-19 14:43:26,828:reddit_api: checking posts of AbruptChaos for suitable videos
+2024-02-19 14:43:27,098:reddit_api:post "I guess she had a lot of baggage" in "AbruptChaos" added to list of suitable videos
+2024-02-19 14:43:27,098:reddit_api:post "Damn" in "AbruptChaos" added to list of suitable videos
+2024-02-19 14:43:27,098:reddit_api:post "Firework explodes in a firepit" in "AbruptChaos" added to list of suitable videos
+2024-02-19 14:43:27,098:reddit_api:post "Abrupt bathroom chaos" in "AbruptChaos" added to list of suitable videos
+2024-02-19 14:43:27,098:reddit_api: checking posts of memes for suitable videos
+2024-02-19 14:43:27,445:reddit_api:post "Made this joke while we were watching SpongeBob" in "memes" added to list of suitable videos
+2024-02-19 14:43:27,445:reddit_api: checking posts of funny for suitable videos
+2024-02-19 14:43:27,763:reddit_api:post "We should get a watchdog for security" in "funny" added to list of suitable videos
+2024-02-19 14:43:27,763:reddit_api:post ""I thought this was what the humans do."" in "funny" added to list of suitable videos
+2024-02-19 14:43:27,763:reddit_api:post "Why use your bed when there’s the floor?" in "funny" added to list of suitable videos
+2024-02-19 14:43:27,763:reddit_api: checking posts of CatsAreAssholes for suitable videos
+2024-02-19 14:43:28,040:reddit_api: checking posts of shitposting for suitable videos
+2024-02-19 14:43:28,372:reddit_api:post "What are you doing step-tank?" in "shitposting" added to list of suitable videos
+2024-02-19 14:43:28,372:reddit_api:post "don't attack me" in "shitposting" added to list of suitable videos
+2024-02-19 14:43:28,372:reddit_api: checking posts of MemeVideos for suitable videos
+2024-02-19 14:43:28,688:reddit_api:post "Race" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:43:28,688:reddit_api:post "Life teaches you well" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:43:28,688:reddit_api:post "Training to fight them titans" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:43:28,688:reddit_api:post "Made this joke while we were watching SpongeBob." in "MemeVideos" added to list of suitable videos
+2024-02-19 14:43:28,688:reddit_api:post "We need a better anti cheat system" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:43:28,688:reddit_api:post "Meme" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:43:28,688:reddit_api:post "Perfect tattoo " in "MemeVideos" added to list of suitable videos
+2024-02-19 14:43:28,689:reddit_api:post "Yikes" in "MemeVideos" added to list of suitable videos
+2024-02-19 14:43:28,689:reddit_api: checking posts of ChildrenFallingOver for suitable videos
+2024-02-19 14:43:28,907:reddit_api:post "My 4 year old sister falling over (Volume up!!!!)" in "ChildrenFallingOver" added to list of suitable videos
+2024-02-19 14:43:28,907:reddit_api:post "there was a slight misunderstanding" in "ChildrenFallingOver" added to list of suitable videos
+2024-02-19 14:43:28,908:reddit_api: checking posts of 21stCenturyHumour for suitable videos
+2024-02-19 14:43:29,205:reddit_api:post "💀" in "21stCenturyHumour" added to list of suitable videos
+2024-02-19 14:43:29,206:reddit_api:post "Gat danm" in "21stCenturyHumour" added to list of suitable videos
+2024-02-19 14:43:29,206:reddit_api:post "..." in "21stCenturyHumour" added to list of suitable videos
+2024-02-19 14:43:29,206:reddit_api:post "✌️😡🧑🏿‍🦱🪦🎮💉" in "21stCenturyHumour" added to list of suitable videos
+2024-02-19 14:43:29,206:reddit_api:post "Why 💀!!!!!!!" in "21stCenturyHumour" added to list of suitable videos
+2024-02-19 14:43:29,206:reddit_api: checking posts of shid_and_camed for suitable videos
+2024-02-19 14:43:29,683:reddit_api:post "This just happened to me" in "shid_and_camed" added to list of suitable videos
+2024-02-19 14:43:29,683:reddit_api:post "In spin we pray" in "shid_and_camed" added to list of suitable videos
+2024-02-19 14:43:29,683:reddit_api:post "Shid and lobodomied" in "shid_and_camed" added to list of suitable videos
+2024-02-19 14:43:29,683:reddit_api:post "Nowhere To Run" in "shid_and_camed" added to list of suitable videos
+2024-02-19 14:43:29,683:reddit_api: checking posts of oompasubs for suitable videos
+2024-02-19 14:43:29,884:reddit_api: checking posts of FreshBeans for suitable videos
+2024-02-19 14:43:30,098:reddit_api:post "pipe" in "FreshBeans" added to list of suitable videos
+2024-02-19 14:43:30,098:reddit_api:post "Posting stolen memes pt.19" in "FreshBeans" added to list of suitable videos
+2024-02-19 14:43:30,098:reddit_api: checking posts of rodentintercourse for suitable videos
+2024-02-19 14:43:30,302:reddit_api: checking posts of okaybuddyretard for suitable videos
+2024-02-19 14:43:30,532:reddit_api:post "Bears are cute " in "okaybuddyretard" added to list of suitable videos
+2024-02-19 14:43:30,532:reddit_api:post "I felt it" in "okaybuddyretard" added to list of suitable videos
+2024-02-19 14:43:30,532:reddit_api:post "Big kitty" in "okaybuddyretard" added to list of suitable videos
+2024-02-19 14:43:30,532:reddit_api:post "Definitely not" in "okaybuddyretard" added to list of suitable videos
+2024-02-19 14:43:30,532:reddit_api: checking posts of doodoofard for suitable videos
+2024-02-19 14:43:30,843:reddit_api:post "God did not have him" in "doodoofard" added to list of suitable videos
+2024-02-19 14:43:30,843:reddit_api:post "reale" in "doodoofard" added to list of suitable videos
+2024-02-19 14:43:30,843:reddit_api:post "." in "doodoofard" added to list of suitable videos
+2024-02-19 14:43:30,844:reddit_api:post "Oh! Oh...." in "doodoofard" added to list of suitable videos
+2024-02-19 14:43:30,844:reddit_api:post "Sniffs" in "doodoofard" added to list of suitable videos
+2024-02-19 14:43:30,844:reddit_api:post "The prank💀" in "doodoofard" added to list of suitable videos
+2024-02-19 14:43:30,844:reddit_api:post "Pointless fard" in "doodoofard" added to list of suitable videos
+2024-02-19 14:43:30,844:reddit_api:post "🖐️🫥🤚" in "doodoofard" added to list of suitable videos
+2024-02-19 14:43:30,844:reddit_api:post "AAAAALLLLLLVVVIIIINNNN" in "doodoofard" added to list of suitable videos
+2024-02-19 14:43:30,844:reddit_api:post "Mustard flavour!" in "doodoofard" added to list of suitable videos
+2024-02-19 14:43:30,844:reddit_api: checking posts of DramaticText for suitable videos
+2024-02-19 14:43:31,067:reddit_api: checking posts of AnimalsBeingJerks for suitable videos
+2024-02-19 14:43:31,223:reddit_api: checking posts of CatSlaps for suitable videos
+2024-02-19 14:43:31,502:reddit_api:list of post IDs: ['1atxwrq', '1au1s6h', '1au2m85', '1aufcjc', '1au74wi', '1atvitm', '1au1ti9', '1au6z3z', '1atuaxa', '1atwirp', '1au1z4c', '1au317q', '1au14xv', '1au93v0', '1auai3t', '1atvgik', '1atwubt', '1au7yxg', '1atuc8i', '1au89p3', '1atvld6', '1au2r2c', '1auicb2', '1aujsls', '1aturja', '1au3zaq', '1aucd95', '1au2qbm', '1aulcks', '1au78fi', '1au0t7h', '1au7e9b', '1augmd0', '1aue1gp', '1atv8wd', '1auayy4', '1au0jxn', '1aug8kp', '1atwyff', '1au4ep6', '1au1hts', '1au1idr', '1audyxa', '1audxz7', '1au97r0', '1au1zb9', '1aua2me', '1aty6ef', '1aud996', '1atwnde', '1atvmau', '1au5rru', '1attwi4', '1atwdtc']
+2024-02-19 14:43:31,503:reddit_api:starting to download videos from reddit
+2024-02-19 14:43:31,990:reddit_api: Attempting to download video from post: My 4 year old sister falling over (Volume up!!!!) 
+2024-02-19 14:43:36,302:reddit_api: Video from post "My 4 year old sister falling over (Volume up!!!!)" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:43:36,828:reddit_api: Attempting to download video from post: Made this joke while we were watching SpongeBob. 
+2024-02-19 14:43:40,940:reddit_api: Video from post "Made this joke while we were watching SpongeBob." saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:43:41,537:reddit_api: Attempting to download video from post: Perfect tattoo  
+2024-02-19 14:43:45,555:reddit_api: Video from post "Perfect tattoo " saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:43:46,222:reddit_api: Attempting to download video from post: Does it tho ? 
+2024-02-19 14:43:50,271:reddit_api: Video from post "Does it tho ?" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:43:51,138:reddit_api: Attempting to download video from post: I guess she had a lot of baggage 
+2024-02-19 14:43:55,226:reddit_api: Video from post "I guess she had a lot of baggage" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:43:56,013:reddit_api: Attempting to download video from post: ... 
+2024-02-19 14:44:00,055:reddit_api: Video from post "..." saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:44:01,502:reddit_api: Attempting to download video from post: The Evolution of Technology and it's consequences  
+2024-02-19 14:44:06,139:reddit_api: Video from post "The Evolution of Technology and it's consequences " saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:44:06,705:reddit_api: Attempting to download video from post: Put it away walt 
+2024-02-19 14:44:10,584:reddit_api: Video from post "Put it away walt" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:44:11,013:reddit_api: Attempting to download video from post: 🖐️🫥🤚 
+2024-02-19 14:44:14,876:reddit_api: Video from post "🖐️🫥🤚" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:44:15,318:reddit_api: Attempting to download video from post: Definitely not 
+2024-02-19 14:44:19,166:reddit_api: Video from post "Definitely not" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:44:19,910:reddit_api: Attempting to download video from post: What are you doing step-tank? 
+2024-02-19 14:44:24,044:reddit_api: Video from post "What are you doing step-tank?" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:44:24,969:reddit_api: Attempting to download video from post: This just happened to me 
+2024-02-19 14:44:29,219:reddit_api: Video from post "This just happened to me" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:44:29,691:reddit_api: Attempting to download video from post: Why 💀!!!!!!! 
+2024-02-19 14:44:33,847:reddit_api: Video from post "Why 💀!!!!!!!" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:44:34,463:reddit_api: Attempting to download video from post: Gat danm 
+2024-02-19 14:44:38,540:reddit_api: Video from post "Gat danm" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:44:39,069:reddit_api: Attempting to download video from post: Oh! Oh.... 
+2024-02-19 14:44:43,491:reddit_api: Video from post "Oh! Oh...." saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:44:43,959:reddit_api: Attempting to download video from post: ✌️😡🧑🏿‍🦱🪦🎮💉 
+2024-02-19 14:44:47,852:reddit_api: Video from post "✌️😡🧑🏿‍🦱🪦🎮💉" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:44:51,452:reddit_api: Attempting to download video from post: Wearing slippers on a slippery tiles 
+2024-02-19 14:44:56,422:reddit_api: Video from post "Wearing slippers on a slippery tiles" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:45:02,286:reddit_api: Attempting to download video from post: "I thought this was what the humans do." 
+2024-02-19 14:45:07,992:reddit_api: Video from post ""I thought this was what the humans do."" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:45:08,551:reddit_api: Attempting to download video from post: Absolutely real 
+2024-02-19 14:45:12,945:reddit_api: Video from post "Absolutely real" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:45:13,877:reddit_api: Attempting to download video from post: Why use your bed when there’s the floor? 
+2024-02-19 14:45:18,324:reddit_api: Video from post "Why use your bed when there’s the floor?" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:45:18,891:reddit_api: Attempting to download video from post: God did not have him 
+2024-02-19 14:45:23,243:reddit_api: Video from post "God did not have him" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:45:24,448:reddit_api: Attempting to download video from post: Damn 
+2024-02-19 14:45:29,008:reddit_api: Video from post "Damn" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:45:29,620:reddit_api: Attempting to download video from post: Life teaches you well 
+2024-02-19 14:45:33,732:reddit_api: Video from post "Life teaches you well" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:45:34,315:reddit_api: Attempting to download video from post: Training to fight them titans 
+2024-02-19 14:45:38,524:reddit_api: Video from post "Training to fight them titans" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:45:39,029:reddit_api: Attempting to download video from post: Mustard flavour! 
+2024-02-19 14:45:43,383:reddit_api: Video from post "Mustard flavour!" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:45:44,224:reddit_api: Attempting to download video from post: 💀 
+2024-02-19 14:45:48,724:reddit_api: Video from post "💀" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:45:49,279:reddit_api: Attempting to download video from post: Yikes 
+2024-02-19 14:45:53,548:reddit_api: Video from post "Yikes" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:45:54,186:reddit_api: Attempting to download video from post: AAAAALLLLLLVVVIIIINNNN 
+2024-02-19 14:45:58,589:reddit_api: Video from post "AAAAALLLLLLVVVIIIINNNN" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:45:59,014:reddit_api: Attempting to download video from post: Big kitty 
+2024-02-19 14:46:03,581:reddit_api: Video from post "Big kitty" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:46:03,990:reddit_api: Attempting to download video from post: Pointless fard 
+2024-02-19 14:46:08,328:reddit_api: Video from post "Pointless fard" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:46:08,918:reddit_api: Attempting to download video from post: Why 
+2024-02-19 14:46:13,176:reddit_api: Video from post "Why" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:46:14,431:reddit_api: Attempting to download video from post: Made this joke while we were watching SpongeBob 
+2024-02-19 14:46:19,091:reddit_api: Video from post "Made this joke while we were watching SpongeBob" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:46:22,300:reddit_api: Attempting to download video from post: We should get a watchdog for security 
+2024-02-19 14:46:27,683:reddit_api: Video from post "We should get a watchdog for security" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:46:28,372:reddit_api: Attempting to download video from post: Abrupt bathroom chaos 
+2024-02-19 14:46:33,062:reddit_api: Video from post "Abrupt bathroom chaos" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:46:33,552:reddit_api: Attempting to download video from post: Meme 
+2024-02-19 14:46:37,932:reddit_api: Video from post "Meme" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:46:38,382:reddit_api: Attempting to download video from post: Bears are cute  
+2024-02-19 14:46:42,948:reddit_api: Video from post "Bears are cute " saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:46:44,031:reddit_api: Attempting to download video from post: Title 
+2024-02-19 14:46:48,390:reddit_api: Video from post "Title" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:46:49,187:reddit_api: Attempting to download video from post: In spin we pray 
+2024-02-19 14:46:53,595:reddit_api: Video from post "In spin we pray" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:46:54,056:reddit_api: Attempting to download video from post: We need a better anti cheat system 
+2024-02-19 14:46:58,225:reddit_api: Video from post "We need a better anti cheat system" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:46:58,866:reddit_api: Attempting to download video from post: Shid and lobodomied 
+2024-02-19 14:47:03,267:reddit_api: Video from post "Shid and lobodomied" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:47:03,773:reddit_api: Attempting to download video from post: The prank💀 
+2024-02-19 14:47:08,274:reddit_api: Video from post "The prank💀" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:47:08,796:reddit_api: Attempting to download video from post: reale 
+2024-02-19 14:47:13,102:reddit_api: Video from post "reale" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:47:13,699:reddit_api: Attempting to download video from post: Tip 
+2024-02-19 14:47:17,873:reddit_api: Video from post "Tip" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:47:18,334:reddit_api: Attempting to download video from post: Posting stolen memes pt.19 
+2024-02-19 14:47:22,578:reddit_api: Video from post "Posting stolen memes pt.19" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:47:23,069:reddit_api: Attempting to download video from post: . 
+2024-02-19 14:47:27,266:reddit_api: Video from post "." saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:47:27,707:reddit_api: Attempting to download video from post: there was a slight misunderstanding 
+2024-02-19 14:47:32,073:reddit_api: Video from post "there was a slight misunderstanding" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:47:32,638:reddit_api: Attempting to download video from post: Nowhere To Run 
+2024-02-19 14:47:37,320:reddit_api: Video from post "Nowhere To Run" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:47:37,804:reddit_api: Attempting to download video from post: I felt it 
+2024-02-19 14:47:42,170:reddit_api: Video from post "I felt it" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:47:43,907:reddit_api: Attempting to download video from post: Parkour! 
+2024-02-19 14:47:49,219:reddit_api: Video from post "Parkour!" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:47:49,700:reddit_api: Attempting to download video from post: pipe 
+2024-02-19 14:47:54,462:reddit_api: Video from post "pipe" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:47:54,992:reddit_api: Attempting to download video from post: Race 
+2024-02-19 14:47:59,348:reddit_api: Video from post "Race" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:48:00,761:reddit_api: Attempting to download video from post: don't attack me 
+2024-02-19 14:48:05,490:reddit_api: Video from post "don't attack me" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:48:06,012:reddit_api: Attempting to download video from post: Sniffs 
+2024-02-19 14:48:10,427:reddit_api: Video from post "Sniffs" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:48:11,045:reddit_api: Attempting to download video from post: Firework explodes in a firepit 
+2024-02-19 14:48:15,367:reddit_api: Video from post "Firework explodes in a firepit" saved to C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:48:15,368:reddit_api:successfully downloaded 54 videos from reddit for a total of 456s of content.
+2024-02-19 14:48:15,422:pushover:Push notification sent: successfully downloaded 54 videos from reddit for a total of 456s of content.
+2024-02-19 14:48:16,057:moviepy_funcs:combining all mp4s in C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:48:16,057:moviepy_funcs: adding 21stCenturyHumour_video13.mp4 to compilation
+2024-02-19 14:48:16,366:moviepy_funcs: adding 21stCenturyHumour_video14.mp4 to compilation
+2024-02-19 14:48:16,686:moviepy_funcs: adding 21stCenturyHumour_video16.mp4 to compilation
+2024-02-19 14:48:17,037:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:48:17,046:moviepy_funcs: adding 21stCenturyHumour_video26.mp4 to compilation
+2024-02-19 14:48:17,351:moviepy_funcs: adding 21stCenturyHumour_video6.mp4 to compilation
+2024-02-19 14:48:17,638:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:48:17,646:moviepy_funcs: adding AbruptChaos_video22.mp4 to compilation
+2024-02-19 14:48:17,805:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:48:17,810:moviepy_funcs: adding AbruptChaos_video34.mp4 to compilation
+2024-02-19 14:48:18,111:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:48:18,113:moviepy_funcs: adding AbruptChaos_video5.mp4 to compilation
+2024-02-19 14:48:18,417:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:48:18,431:moviepy_funcs: adding AbruptChaos_video54.mp4 to compilation
+2024-02-19 14:48:18,781:moviepy_funcs: adding ChildrenFallingOver_video1.mp4 to compilation
+2024-02-19 14:48:19,076:moviepy_funcs:rezising clip height from 260 to 1080
+2024-02-19 14:48:19,078:moviepy_funcs: adding ChildrenFallingOver_video46.mp4 to compilation
+2024-02-19 14:48:19,378:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:48:19,380:moviepy_funcs: adding discordVideos_video19.mp4 to compilation
+2024-02-19 14:48:19,710:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:48:19,714:moviepy_funcs: adding discordVideos_video31.mp4 to compilation
+2024-02-19 14:48:20,033:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:48:20,045:moviepy_funcs: adding discordVideos_video37.mp4 to compilation
+2024-02-19 14:48:20,365:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:48:20,367:moviepy_funcs: adding discordVideos_video4.mp4 to compilation
+2024-02-19 14:48:20,657:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:48:20,658:moviepy_funcs: adding discordVideos_video43.mp4 to compilation
+2024-02-19 14:48:20,960:moviepy_funcs: adding discordVideos_video7.mp4 to compilation
+2024-02-19 14:48:21,330:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:48:21,338:moviepy_funcs: adding discordVideos_video8.mp4 to compilation
+2024-02-19 14:48:21,656:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:48:21,667:moviepy_funcs: adding doodoofard_video15.mp4 to compilation
+2024-02-19 14:48:21,988:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:48:22,004:moviepy_funcs: adding doodoofard_video21.mp4 to compilation
+2024-02-19 14:48:22,306:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:48:22,317:moviepy_funcs: adding doodoofard_video25.mp4 to compilation
+2024-02-19 14:48:22,651:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:48:22,654:moviepy_funcs: adding doodoofard_video28.mp4 to compilation
+2024-02-19 14:48:23,058:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:48:23,063:moviepy_funcs: adding doodoofard_video30.mp4 to compilation
+2024-02-19 14:48:23,382:moviepy_funcs: adding doodoofard_video41.mp4 to compilation
+2024-02-19 14:48:23,715:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:48:23,718:moviepy_funcs: adding doodoofard_video42.mp4 to compilation
+2024-02-19 14:48:24,030:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:48:24,032:moviepy_funcs: adding doodoofard_video45.mp4 to compilation
+2024-02-19 14:48:24,368:moviepy_funcs: adding doodoofard_video53.mp4 to compilation
+2024-02-19 14:48:24,674:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:48:24,677:moviepy_funcs: adding doodoofard_video9.mp4 to compilation
+2024-02-19 14:48:25,046:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:48:25,050:moviepy_funcs: adding FreshBeans_video44.mp4 to compilation
+2024-02-19 14:48:25,410:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:48:25,414:moviepy_funcs: adding FreshBeans_video50.mp4 to compilation
+2024-02-19 14:48:25,753:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:48:25,755:moviepy_funcs: adding funny_video18.mp4 to compilation
+2024-02-19 14:48:26,055:moviepy_funcs:rezising clip height from 270 to 1080
+2024-02-19 14:48:26,057:moviepy_funcs: adding funny_video20.mp4 to compilation
+2024-02-19 14:48:26,444:moviepy_funcs: adding funny_video33.mp4 to compilation
+2024-02-19 14:48:26,819:moviepy_funcs: adding memes_video32.mp4 to compilation
+2024-02-19 14:48:27,352:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:48:27,389:moviepy_funcs: adding MemeVideos_video2.mp4 to compilation
+2024-02-19 14:48:27,791:moviepy_funcs: adding MemeVideos_video23.mp4 to compilation
+2024-02-19 14:48:28,191:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:48:28,199:moviepy_funcs: adding MemeVideos_video24.mp4 to compilation
+2024-02-19 14:48:28,658:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:48:28,664:moviepy_funcs: adding MemeVideos_video27.mp4 to compilation
+2024-02-19 14:48:29,017:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:48:29,025:moviepy_funcs: adding MemeVideos_video3.mp4 to compilation
+2024-02-19 14:48:29,402:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:48:29,405:moviepy_funcs: adding MemeVideos_video35.mp4 to compilation
+2024-02-19 14:48:29,860:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:48:29,869:moviepy_funcs: adding MemeVideos_video39.mp4 to compilation
+2024-02-19 14:48:30,369:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:48:30,377:moviepy_funcs: adding MemeVideos_video51.mp4 to compilation
+2024-02-19 14:48:30,762:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:48:30,779:moviepy_funcs: adding okaybuddyretard_video10.mp4 to compilation
+2024-02-19 14:48:31,169:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:48:31,174:moviepy_funcs: adding okaybuddyretard_video29.mp4 to compilation
+2024-02-19 14:48:31,558:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:48:31,561:moviepy_funcs: adding okaybuddyretard_video36.mp4 to compilation
+2024-02-19 14:48:31,927:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:48:31,931:moviepy_funcs: adding okaybuddyretard_video48.mp4 to compilation
+2024-02-19 14:48:32,332:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:48:32,336:moviepy_funcs: adding shid_and_camed_video12.mp4 to compilation
+2024-02-19 14:48:32,723:moviepy_funcs: adding shid_and_camed_video38.mp4 to compilation
+2024-02-19 14:48:33,105:moviepy_funcs:rezising clip height from 720 to 1080
+2024-02-19 14:48:33,112:moviepy_funcs: adding shid_and_camed_video40.mp4 to compilation
+2024-02-19 14:48:33,497:moviepy_funcs: adding shid_and_camed_video47.mp4 to compilation
+2024-02-19 14:48:33,858:moviepy_funcs: adding shitposting_video11.mp4 to compilation
+2024-02-19 14:48:34,199:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:48:34,201:moviepy_funcs: adding shitposting_video52.mp4 to compilation
+2024-02-19 14:48:34,623:moviepy_funcs:rezising clip height from 480 to 1080
+2024-02-19 14:48:34,627:moviepy_funcs: adding Whatcouldgowrong_video17.mp4 to compilation
+2024-02-19 14:48:34,966:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:48:34,968:moviepy_funcs: adding Whatcouldgowrong_video49.mp4 to compilation
+2024-02-19 14:48:35,307:moviepy_funcs:rezising clip height from 360 to 1080
+2024-02-19 14:54:51,729:moviepy_funcs:Compilation video created
+2024-02-19 14:54:51,805:pushover:Push notification sent: Daily Compilation Created
+2024-02-19 14:54:52,580:moviepy_funcs:creating shorts from C:\Users\polma\PycharmProjects\Youtube_Bot\videos
+2024-02-19 14:54:54,627:moviepy_funcs:adding "AbruptChaos_video34.mp4" to list of shorts to be moved
+2024-02-19 14:54:55,647:moviepy_funcs:adding "ChildrenFallingOver_video1.mp4" to list of shorts to be moved
+2024-02-19 14:54:55,929:moviepy_funcs:adding "ChildrenFallingOver_video46.mp4" to list of shorts to be moved
+2024-02-19 14:54:56,232:moviepy_funcs:adding "discordVideos_video19.mp4" to list of shorts to be moved
+2024-02-19 14:54:56,794:moviepy_funcs:adding "discordVideos_video37.mp4" to list of shorts to be moved
+2024-02-19 14:54:57,073:moviepy_funcs:adding "discordVideos_video4.mp4" to list of shorts to be moved
+2024-02-19 14:54:58,818:moviepy_funcs:adding "doodoofard_video25.mp4" to list of shorts to be moved
+2024-02-19 14:54:59,116:moviepy_funcs:adding "doodoofard_video28.mp4" to list of shorts to be moved
+2024-02-19 14:54:59,695:moviepy_funcs:adding "doodoofard_video41.mp4" to list of shorts to be moved
+2024-02-19 14:54:59,986:moviepy_funcs:adding "doodoofard_video42.mp4" to list of shorts to be moved
+2024-02-19 14:55:00,587:moviepy_funcs:adding "doodoofard_video53.mp4" to list of shorts to be moved
+2024-02-19 14:55:00,881:moviepy_funcs:adding "doodoofard_video9.mp4" to list of shorts to be moved
+2024-02-19 14:55:01,175:moviepy_funcs:adding "FreshBeans_video44.mp4" to list of shorts to be moved
+2024-02-19 14:55:01,459:moviepy_funcs:adding "FreshBeans_video50.mp4" to list of shorts to be moved
+2024-02-19 14:55:01,741:moviepy_funcs:adding "funny_video18.mp4" to list of shorts to be moved
+2024-02-19 14:55:04,145:moviepy_funcs:adding "MemeVideos_video3.mp4" to list of shorts to be moved
+2024-02-19 14:55:05,344:moviepy_funcs:adding "okaybuddyretard_video10.mp4" to list of shorts to be moved
+2024-02-19 14:55:05,635:moviepy_funcs:adding "okaybuddyretard_video29.mp4" to list of shorts to be moved
+2024-02-19 14:55:05,924:moviepy_funcs:adding "okaybuddyretard_video36.mp4" to list of shorts to be moved
+2024-02-19 14:55:06,231:moviepy_funcs:adding "okaybuddyretard_video48.mp4" to list of shorts to be moved
+2024-02-19 14:55:07,863:moviepy_funcs:adding "shitposting_video11.mp4" to list of shorts to be moved
+2024-02-19 14:55:08,258:moviepy_funcs:adding "shitposting_video52.mp4" to list of shorts to be moved
+2024-02-19 14:55:08,658:moviepy_funcs:adding "Whatcouldgowrong_video17.mp4" to list of shorts to be moved
+2024-02-19 14:55:08,981:moviepy_funcs:adding "Whatcouldgowrong_video49.mp4" to list of shorts to be moved
+2024-02-19 14:55:08,989:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\AbruptChaos_video34.mp4
+2024-02-19 14:55:08,993:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:08,993:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\ChildrenFallingOver_video1.mp4
+2024-02-19 14:55:08,994:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:08,994:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\ChildrenFallingOver_video46.mp4
+2024-02-19 14:55:08,996:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:08,996:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\discordVideos_video19.mp4
+2024-02-19 14:55:08,997:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:08,999:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\discordVideos_video37.mp4
+2024-02-19 14:55:09,000:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,000:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\discordVideos_video4.mp4
+2024-02-19 14:55:09,001:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,001:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\doodoofard_video25.mp4
+2024-02-19 14:55:09,003:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,003:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\doodoofard_video28.mp4
+2024-02-19 14:55:09,004:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,004:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\doodoofard_video41.mp4
+2024-02-19 14:55:09,005:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,005:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\doodoofard_video42.mp4
+2024-02-19 14:55:09,008:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,008:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\doodoofard_video53.mp4
+2024-02-19 14:55:09,009:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,009:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\doodoofard_video9.mp4
+2024-02-19 14:55:09,010:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,010:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\FreshBeans_video44.mp4
+2024-02-19 14:55:09,011:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,011:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\FreshBeans_video50.mp4
+2024-02-19 14:55:09,012:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,012:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\funny_video18.mp4
+2024-02-19 14:55:09,014:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,014:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\MemeVideos_video3.mp4
+2024-02-19 14:55:09,015:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,017:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\okaybuddyretard_video10.mp4
+2024-02-19 14:55:09,018:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,018:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\okaybuddyretard_video29.mp4
+2024-02-19 14:55:09,019:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,019:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\okaybuddyretard_video36.mp4
+2024-02-19 14:55:09,020:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,020:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\okaybuddyretard_video48.mp4
+2024-02-19 14:55:09,021:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,022:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\shitposting_video11.mp4
+2024-02-19 14:55:09,023:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,023:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\shitposting_video52.mp4
+2024-02-19 14:55:09,024:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,024:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\Whatcouldgowrong_video17.mp4
+2024-02-19 14:55:09,025:moviepy_funcs: clip moved successfully
+2024-02-19 14:55:09,025:moviepy_funcs:attempting to move C:\Users\polma\PycharmProjects\Youtube_Bot\videos\Whatcouldgowrong_video49.mp4
+2024-02-19 14:55:09,026:moviepy_funcs: clip moved successfully
+2024-02-20 10:50:21,539:pushover:Imported
+2024-02-20 10:50:21,539:reddit_api:Imported
+2024-02-20 10:50:22,960:moviepy_funcs:Imported
+2024-02-20 10:50:22,960:__main__:Imported
+2024-02-20 10:50:24,892:reddit_api:Reddit Authentication Failed:
+Traceback (most recent call last):
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\reddit_api.py", line 48, in check_login
+    logger.info(f' API connected to user: {reddit.user.me()}')
+                                           ^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\praw\util\deprecate_args.py", line 43, in wrapped
+    return func(**dict(zip(_old_args, args)), **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\praw\models\user.py", line 168, in me
+    user_data = self._reddit.get(API_PATH["me"])
+                ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\praw\util\deprecate_args.py", line 43, in wrapped
+    return func(**dict(zip(_old_args, args)), **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\praw\reddit.py", line 712, in get
+    return self._objectify_request(method="GET", params=params, path=path)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\praw\reddit.py", line 517, in _objectify_request
+    self.request(
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\praw\util\deprecate_args.py", line 43, in wrapped
+    return func(**dict(zip(_old_args, args)), **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\praw\reddit.py", line 941, in request
+    return self._core.request(
+           ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\prawcore\sessions.py", line 328, in request
+    return self._request_with_retries(
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\prawcore\sessions.py", line 234, in _request_with_retries
+    response, saved_exception = self._make_request(
+                                ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\prawcore\sessions.py", line 186, in _make_request
+    response = self._rate_limiter.call(
+               ^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\prawcore\rate_limit.py", line 47, in call
+    response = request_function(*args, **kwargs)
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\prawcore\requestor.py", line 68, in request
+    return self._http.request(*args, timeout=timeout or self.timeout, **kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\requests\sessions.py", line 589, in request
+    resp = self.send(prep, **send_kwargs)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\requests\sessions.py", line 703, in send
+    r = adapter.send(request, **kwargs)
+        ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\requests\adapters.py", line 486, in send
+    resp = conn.urlopen(
+           ^^^^^^^^^^^^^
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\urllib3\connectionpool.py", line 793, in urlopen
+    response = self._make_request(
+               ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\urllib3\connectionpool.py", line 537, in _make_request
+    response = conn.getresponse()
+               ^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\PycharmProjects\Youtube_Bot\.venv\Lib\site-packages\urllib3\connection.py", line 466, in getresponse
+    httplib_response = super().getresponse()
+                       ^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 1419, in getresponse
+    response.begin()
+  File "C:\Users\polma\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 331, in begin
+    version, status, reason = self._read_status()
+                              ^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\AppData\Local\Programs\Python\Python312\Lib\http\client.py", line 292, in _read_status
+    line = str(self.fp.readline(_MAXLINE + 1), "iso-8859-1")
+               ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\AppData\Local\Programs\Python\Python312\Lib\socket.py", line 707, in readinto
+    return self._sock.recv_into(b)
+           ^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 1253, in recv_into
+    return self.read(nbytes, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^
+  File "C:\Users\polma\AppData\Local\Programs\Python\Python312\Lib\ssl.py", line 1105, in read
+    return self._sslobj.read(len, buffer)
+           ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+KeyboardInterrupt
+2024-02-20 10:50:25,019:pushover:Push notification sent: Failed to auth into reddit
+2024-02-20 10:50:25,801:reddit_api:subreddit list created: ['discordVideos', 'Whatcouldgowrong', 'AbruptChaos', 'memes', 'funny', 'CatsAreAssholes', 'shitposting', 'MemeVideos', 'ChildrenFallingOver', '21stCenturyHumour', 'shid_and_camed', 'oompasubs', 'FreshBeans', 'rodentintercourse', 'okaybuddyretard', 'doodoofard', 'DramaticText', 'AnimalsBeingJerks', 'CatSlaps']
+2024-02-20 10:50:25,801:reddit_api: checking posts of discordVideos for suitable videos
+2024-02-20 10:50:26,674:reddit_api:post "." in "discordVideos" added to list of suitable videos
+2024-02-20 10:50:26,674:reddit_api:post "I didn't even need to know what he said to understand mans in pain 😳😂😒" in "discordVideos" added to list of suitable videos
+2024-02-20 10:50:26,674:reddit_api:post "2024 trendy haircut" in "discordVideos" added to list of suitable videos
+2024-02-20 10:50:26,674:reddit_api:post "Yeah Discord" in "discordVideos" added to list of suitable videos
+2024-02-20 10:50:26,674:reddit_api:post "Thoughts ?!" in "discordVideos" added to list of suitable videos
+2024-02-20 10:50:26,674:reddit_api:post "What in tarnation" in "discordVideos" added to list of suitable videos
+2024-02-20 10:50:26,674:reddit_api:post "Recovering me friend from a toxic relationship be like: -" in "discordVideos" added to list of suitable videos
+2024-02-20 10:50:26,674:reddit_api:post "Mechanic" in "discordVideos" added to list of suitable videos
+2024-02-20 10:50:26,674:reddit_api:post "Sometimes the unspoken option is already the best one" in "discordVideos" added to list of suitable videos
+2024-02-20 10:50:26,674:reddit_api: checking posts of Whatcouldgowrong for suitable videos
+2024-02-20 10:50:26,943:reddit_api: checking posts of AbruptChaos for suitable videos
+2024-02-20 10:50:27,155:reddit_api:post "Never reach into brackish water" in "AbruptChaos" added to list of suitable videos
+2024-02-20 10:50:27,156:reddit_api: checking posts of memes for suitable videos
+2024-02-20 10:50:27,509:reddit_api:post "Fap wasted" in "memes" added to list of suitable videos
+2024-02-20 10:50:27,509:reddit_api: checking posts of funny for suitable videos
+2024-02-20 10:50:27,864:reddit_api:post "Bobby does stand up" in "funny" added to list of suitable videos
+2024-02-20 10:50:27,864:reddit_api:post "This door at 3am ☠️" in "funny" added to list of suitable videos
+2024-02-20 10:50:27,864:reddit_api:post "How to control him 😊" in "funny" added to list of suitable videos
+2024-02-20 10:50:27,864:reddit_api:post "Forget Baby" in "funny" added to list of suitable videos
+2024-02-20 10:50:27,864:reddit_api: checking posts of CatsAreAssholes for suitable videos
+2024-02-20 10:50:28,147:reddit_api: checking posts of shitposting for suitable videos
+2024-02-20 10:50:28,479:reddit_api:post "Lemon shower" in "shitposting" added to list of suitable videos
+2024-02-20 10:50:28,479:reddit_api:post "Just do it already " in "shitposting" added to list of suitable videos
+2024-02-20 10:50:28,480:reddit_api:post "🐠" in "shitposting" added to list of suitable videos
+2024-02-20 10:50:28,480:reddit_api: checking posts of MemeVideos for suitable videos
+2024-02-20 11:55:25,914:__main__:Imported
+2024-02-20 11:59:13,004:__main__:Imported
+2024-02-20 12:02:48,816:__main__:Imported
+2024-02-20 12:05:25,528:__main__:Imported
+2024-02-20 12:06:10,721:__main__:Imported
+2024-02-20 12:17:33,658:Functions.pushover:Imported
+2024-02-20 12:17:33,659:__main__:Imported
+2024-02-20 12:17:39,798:__main__:Imported
+2024-02-20 12:18:31,368:__main__:Imported
+2024-02-20 12:26:04,456:__main__:Imported
+2024-02-20 12:34:11,023:__main__:Imported
+2024-02-20 12:41:02,433:__main__: attempting to delete individual clip files
+2024-02-20 12:41:02,434:__main__: 21stCenturyHumour_video10.mp4 deleted.
+2024-02-20 12:41:02,435:__main__: 21stCenturyHumour_video12.mp4 deleted.
+2024-02-20 12:41:02,435:__main__: 21stCenturyHumour_video24.mp4 deleted.
+2024-02-20 12:41:02,436:__main__: 21stCenturyHumour_video31.mp4 deleted.
+2024-02-20 12:41:02,436:__main__: 21stCenturyHumour_video35.mp4 deleted.
+2024-02-20 12:41:02,437:__main__: 21stCenturyHumour_video43.mp4 deleted.
+2024-02-20 12:41:02,437:__main__: 21stCenturyHumour_video53.mp4 deleted.
+2024-02-20 12:41:02,438:__main__: AbruptChaos_video52.mp4 deleted.
+2024-02-20 12:41:02,438:__main__: CatSlaps_video17.mp4 deleted.
+2024-02-20 12:41:02,439:__main__: ChildrenFallingOver_video11.mp4 deleted.
+2024-02-20 12:41:02,439:__main__: ChildrenFallingOver_video13.mp4 deleted.
+2024-02-20 12:41:02,440:__main__: discordVideos_video20.mp4 deleted.
+2024-02-20 12:41:02,441:__main__: discordVideos_video22.mp4 deleted.
+2024-02-20 12:41:02,441:__main__: discordVideos_video27.mp4 deleted.
+2024-02-20 12:41:02,442:__main__: discordVideos_video30.mp4 deleted.
+2024-02-20 12:41:02,442:__main__: discordVideos_video33.mp4 deleted.
+2024-02-20 12:41:02,443:__main__: discordVideos_video39.mp4 deleted.
+2024-02-20 12:41:02,443:__main__: discordVideos_video4.mp4 deleted.
+2024-02-20 12:41:02,444:__main__: discordVideos_video45.mp4 deleted.
+2024-02-20 12:41:02,444:__main__: discordVideos_video47.mp4 deleted.
+2024-02-20 12:41:02,444:__main__:could not delete doodoofard_video1.mp4
+2024-02-20 12:41:02,445:__main__: doodoofard_video18.mp4 deleted.
+2024-02-20 12:41:02,445:__main__: doodoofard_video19.mp4 deleted.
+2024-02-20 12:41:02,446:__main__: doodoofard_video26.mp4 deleted.
+2024-02-20 12:41:02,446:__main__: doodoofard_video29.mp4 deleted.
+2024-02-20 12:41:02,446:__main__: doodoofard_video34.mp4 deleted.
+2024-02-20 12:41:02,448:__main__: doodoofard_video38.mp4 deleted.
+2024-02-20 12:41:02,448:__main__:could not delete doodoofard_video46.mp4
+2024-02-20 12:41:02,448:__main__: doodoofard_video57.mp4 deleted.
+2024-02-20 12:41:02,449:__main__: doodoofard_video9.mp4 deleted.
+2024-02-20 12:41:02,449:__main__: FreshBeans_video37.mp4 deleted.
+2024-02-20 12:41:02,450:__main__:could not delete FreshBeans_video5.mp4
+2024-02-20 12:41:02,450:__main__: funny_video15.mp4 deleted.
+2024-02-20 12:41:02,450:__main__: funny_video23.mp4 deleted.
+2024-02-20 12:41:02,451:__main__: funny_video28.mp4 deleted.
+2024-02-20 12:41:02,452:__main__: funny_video50.mp4 deleted.
+2024-02-20 12:41:02,452:__main__: funny_video8.mp4 deleted.
+2024-02-20 12:41:02,452:__main__: memes_video54.mp4 deleted.
+2024-02-20 12:41:02,453:__main__: MemeVideos_video14.mp4 deleted.
+2024-02-20 12:41:02,453:__main__:could not delete MemeVideos_video16.mp4
+2024-02-20 12:41:02,454:__main__: MemeVideos_video2.mp4 deleted.
+2024-02-20 12:41:02,454:__main__: MemeVideos_video32.mp4 deleted.
+2024-02-20 12:41:02,455:__main__: MemeVideos_video40.mp4 deleted.
+2024-02-20 12:41:02,456:__main__: MemeVideos_video41.mp4 deleted.
+2024-02-20 12:41:02,456:__main__: MemeVideos_video44.mp4 deleted.
+2024-02-20 12:41:02,456:__main__: MemeVideos_video55.mp4 deleted.
+2024-02-20 12:41:02,456:__main__: okaybuddyretard_video21.mp4 deleted.
+2024-02-20 12:41:02,457:__main__: okaybuddyretard_video36.mp4 deleted.
+2024-02-20 12:41:02,457:__main__:could not delete okaybuddyretard_video42.mp4
+2024-02-20 12:41:02,458:__main__: okaybuddyretard_video56.mp4 deleted.
+2024-02-20 12:41:02,458:__main__: okaybuddyretard_video6.mp4 deleted.
+2024-02-20 12:41:02,459:__main__: shid_and_camed_video25.mp4 deleted.
+2024-02-20 12:41:02,459:__main__: shid_and_camed_video7.mp4 deleted.
+2024-02-20 12:41:02,459:__main__: shitposting_video3.mp4 deleted.
+2024-02-20 12:41:02,461:__main__: shitposting_video48.mp4 deleted.
+2024-02-20 12:41:02,462:__main__: shitposting_video49.mp4 deleted.
+2024-02-20 12:41:02,462:__main__: shitposting_video51.mp4 deleted.
+2024-02-20 12:51:42,456:__main__:Imported
+2024-02-20 12:53:11,080:__main__:Imported
+2024-02-20 13:27:56,242:__main__:Imported
+2024-02-20 13:50:33,580:__main__:Imported
