@@ -22,7 +22,7 @@ logger.debug('Imported')
 
 def get_ai_response(post_title, prompt, post='post'):
     client = OpenAI(
-        api_key = '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'
+        api_key = '' # your openAI api key
         )
     try:
         chat_completion = client.chat.completions.create(
